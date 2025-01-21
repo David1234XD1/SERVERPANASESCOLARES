@@ -843,3 +843,8 @@
 [21Jan2025 22:51:42.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Goku177[/127.135.148.36:39771] logged in with entity id 8244 at (-415.94793504647305, 69.0, -1204.952653046826)
 [21Jan2025 22:51:42.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 joined the game
 [21Jan2025 22:51:42.815] [Server thread/INFO] [Jade/]: Syncing config to Goku177 (de39ec36-44f0-3f10-b028-f8687bba6755)
+[21Jan2025 22:54:07.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 lost connection: Disconnected
+[21Jan2025 22:54:07.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 left the game
+[21Jan2025 22:54:37.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [A Strange Grave Dust]
+[21Jan2025 22:56:40.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [Knowledge of Death]
+[21Jan2025 22:56:40.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [Ambush]
