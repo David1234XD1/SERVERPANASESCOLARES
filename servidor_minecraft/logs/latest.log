@@ -1030,3 +1030,45 @@ java.io.FileNotFoundException: config/modernlife-common.toml (No such file or di
 [21Jan2025 01:41:55.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
 [21Jan2025 01:42:47.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
 [21Jan2025 01:42:52.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 01:43:19.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Acquire Hardware]
+[21Jan2025 01:43:36.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Not Today, Thank You]
+[21Jan2025 01:44:48.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Sweet Dreams]
+[21Jan2025 01:45:19.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Suit Up]
+[21Jan2025 01:47:36.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Isn't It Iron Pick]
+[21Jan2025 01:49:23.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Suit Up]
+[21Jan2025 01:50:22.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [Diamonds!]
+[21Jan2025 01:51:46.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Acquire Hardware]
+[21Jan2025 01:52:11.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was shot by Skeleton
+[21Jan2025 01:52:14.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[21Jan2025 01:52:36.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 01:53:34.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was slain by Zombie
+[21Jan2025 01:53:36.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[21Jan2025 01:53:41.421] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=38, y=66, z=-120}
+[21Jan2025 01:54:02.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 01:54:20.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[21Jan2025 01:54:28.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 01:55:05.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Elmegabyt12 to Tmarsi219]
+[21Jan2025 01:55:08.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Goku177 to Tmarsi219]
+[21Jan2025 01:55:31.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [Not Today, Thank You]
+[21Jan2025 01:55:40.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [Monster Hunter]
+[21Jan2025 01:55:50.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Suit Up]
+[21Jan2025 01:56:24.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Monster Hunter]
+[21Jan2025 01:56:28.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 was shot by Skeleton
+[21Jan2025 01:56:34.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was shot by Skeleton
+[21Jan2025 01:56:37.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[21Jan2025 01:56:54.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 01:57:06.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 was slain by Cachalot Whale
+[21Jan2025 01:57:33.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Goku177 to Tmarsi219]
+[21Jan2025 01:57:43.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported 4 entities to Tmarsi219]
+[21Jan2025 01:58:28.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 was shot by Skeleton
+[21Jan2025 02:04:27.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 was shot by Skeleton
+[21Jan2025 02:04:52.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Isn't It Iron Pick]
+[21Jan2025 02:05:33.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[21Jan2025 02:05:38.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Mariachi?]
+[21Jan2025 02:05:39.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 02:06:06.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has completed the challenge [Mariachi!]
+[21Jan2025 02:06:57.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Goku177 to Tmarsi219]
+[21Jan2025 02:09:45.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Isn't It Iron Pick]
+[21Jan2025 02:10:28.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Monster Hunter]
+[21Jan2025 02:13:04.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[21Jan2025 02:13:10.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
