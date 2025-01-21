@@ -4344,3 +4344,72 @@ java.io.FileNotFoundException: config/modernlife-common.toml (No such file or di
 [21Jan2025 02:43:20.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Goku177]
 [21Jan2025 02:43:35.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jan2025 02:43:35.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 02:44:43.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[21Jan2025 02:44:48.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 02:44:53.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Goku177 to Tmarsi219]
+[21Jan2025 02:44:59.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[21Jan2025 02:45:02.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 02:45:45.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[21Jan2025 02:45:52.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 02:46:28.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 was slain by Cyclops
+[21Jan2025 02:46:38.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was doomed to fall by Cyclops
+[21Jan2025 02:46:50.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 was doomed to fall by Cyclops
+[21Jan2025 02:47:34.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was slain by Cyclops
+[21Jan2025 02:48:01.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 was slain by Cyclops
+[21Jan2025 02:48:35.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 02:48:35.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 02:49:34.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[21Jan2025 02:49:37.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 02:50:16.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Goku177]
+[21Jan2025 02:50:51.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [My Name is Nobody]
+[21Jan2025 02:51:15.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[21Jan2025 02:51:20.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 02:52:30.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Ice Bucket Challenge]
+[21Jan2025 02:53:02.178] [Server thread/DEBUG] [mixin/]: Mixing VibrationListenerMixin from mixins.deeperdarker.json into net.minecraft.world.level.gameevent.vibrations.VibrationListener
+[21Jan2025 02:53:35.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 02:53:35.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 02:53:37.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 lost connection: Disconnected
+[21Jan2025 02:53:37.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 left the game
+[21Jan2025 02:54:03.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[21Jan2025 02:54:50.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 02:54:52.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[21Jan2025 02:54:59.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 02:55:07.982] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[21Jan2025 02:56:06.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 walked into fire whilst fighting Fire Dragon
+[21Jan2025 02:56:12.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[21Jan2025 02:56:57.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 02:57:21.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[21Jan2025 02:57:26.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 02:57:57.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[21Jan2025 02:58:22.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 02:58:35.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 02:58:35.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 02:58:49.932] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/45116, l='ServerLevel[world]', x=-314.18, y=70.00, z=-1529.40] died, message: 'Leatherworker was burnt to a crisp whilst fighting Fire Dragon'
+[21Jan2025 02:58:52.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[21Jan2025 02:58:57.443] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/45117, l='ServerLevel[world]', x=-317.93, y=70.54, z=-1541.61] died, message: 'Leatherworker was burnt to a crisp whilst fighting Fire Dragon'
+[21Jan2025 02:59:19.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 03:00:04.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[21Jan2025 03:00:43.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 03:01:04.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[21Jan2025 03:01:14.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 03:02:55.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[21Jan2025 03:03:13.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 03:03:18.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has completed the challenge [Free Willy]
+[21Jan2025 03:03:20.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[21Jan2025 03:03:31.269] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=186, y=35, z=-1342}
+[21Jan2025 03:03:35.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 03:03:35.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 03:03:38.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 03:03:43.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[21Jan2025 03:05:13.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved too quickly! 0.21534009728867431,0.0,-10.863924520637738
+[21Jan2025 03:05:32.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 03:05:34.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Disconnected
+[21Jan2025 03:05:34.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
+[21Jan2025 03:08:35.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 03:08:35.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 03:08:50.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRempanadass lost connection: Disconnected
+[21Jan2025 03:08:50.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass left the game
+[21Jan2025 03:08:53.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elmegabyt12 lost connection: Disconnected
+[21Jan2025 03:08:53.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 left the game
+[21Jan2025 03:13:35.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 03:13:35.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

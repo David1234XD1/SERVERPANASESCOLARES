@@ -1630,6 +1630,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/standard": {
+    "criteria": {
+      "has_chest": "2025-01-21 02:43:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-21 02:13:26 +0000"
@@ -1921,6 +1927,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-01-21 02:18:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/blank_upgrade": {
+    "criteria": {
+      "has_chest": "2025-01-21 02:43:36 +0000"
     },
     "done": true
   },

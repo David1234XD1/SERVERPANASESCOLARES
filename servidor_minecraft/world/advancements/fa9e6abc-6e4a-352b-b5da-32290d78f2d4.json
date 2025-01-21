@@ -441,6 +441,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-21 02:43:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 01:43:19 +0000"
@@ -480,6 +486,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-01-21 02:01:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-21 02:43:53 +0000"
     },
     "done": true
   },
@@ -693,6 +705,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-21 03:00:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 01:59:21 +0000"
@@ -762,6 +780,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-21 01:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-21 02:52:30 +0000"
     },
     "done": true
   },
@@ -978,6 +1002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-21 03:00:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-01-21 01:24:33 +0000"
@@ -1014,9 +1044,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-21 02:43:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-01-21 01:24:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-21 02:43:53 +0000"
     },
     "done": true
   },
@@ -1077,6 +1119,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv1": {
     "criteria": {
       "has_iron": "2025-01-21 01:43:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-21 02:43:53 +0000"
     },
     "done": true
   },
@@ -1182,6 +1230,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-21 02:56:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv4": {
     "criteria": {
       "has_iron": "2025-01-21 01:43:19 +0000"
@@ -1218,6 +1272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-21 03:00:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-01-21 01:27:18 +0000"
@@ -1227,6 +1287,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-01-21 01:23:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-21 02:43:53 +0000"
     },
     "done": true
   },
@@ -1476,6 +1542,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-21 03:00:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-21 01:49:38 +0000"
@@ -1491,6 +1563,12 @@
   "travelersbackpack:recipes/travelersbackpack/hose_nozzle": {
     "criteria": {
       "has_iron": "2025-01-21 01:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-21 02:52:30 +0000"
     },
     "done": true
   },
@@ -1578,6 +1656,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-21 02:43:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-01-21 02:40:51 +0000"
@@ -1593,6 +1677,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-01-21 02:01:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-01-21 03:03:18 +0000"
     },
     "done": true
   },
@@ -1628,10 +1718,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-01-21 02:54:34 +0000",
       "minecraft:taiga": "2025-01-21 02:20:45 +0000",
       "minecraft:beach": "2025-01-21 01:31:36 +0000",
       "minecraft:river": "2025-01-21 02:28:54 +0000",
+      "minecraft:stony_shore": "2025-01-21 03:03:09 +0000",
+      "minecraft:grove": "2025-01-21 03:00:17 +0000",
+      "minecraft:cold_ocean": "2025-01-21 03:03:21 +0000",
       "minecraft:forest": "2025-01-21 01:23:45 +0000",
+      "minecraft:flower_forest": "2025-01-21 03:05:20 +0000",
+      "minecraft:frozen_peaks": "2025-01-21 03:04:26 +0000",
+      "minecraft:meadow": "2025-01-21 02:54:16 +0000",
       "minecraft:plains": "2025-01-21 01:23:59 +0000"
     },
     "done": false
@@ -1669,6 +1766,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-01-21 01:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-21 03:00:23 +0000"
     },
     "done": true
   },
@@ -1774,6 +1877,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-21 02:50:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 01:59:21 +0000"
@@ -1831,6 +1940,12 @@
   "securitycraft:recipes/securitycraft/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-01-21 01:59:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-21 02:43:53 +0000"
     },
     "done": true
   },
@@ -1921,6 +2036,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-01-21 01:28:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-21 02:43:53 +0000"
     },
     "done": true
   },
