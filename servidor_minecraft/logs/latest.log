@@ -832,3 +832,14 @@
 [21Jan2025 22:38:24.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
 [21Jan2025 22:38:24.421] [Server thread/INFO] [Jade/]: Syncing config to Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4)
 [21Jan2025 22:41:54.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved too quickly! 6.810758631043541,-7.324429051896878,1.691273572238515
+[21Jan2025 22:43:53.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[21Jan2025 22:44:19.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[21Jan2025 22:45:20.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was slain by Ice Dragon
+[21Jan2025 22:45:20.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Your First Grave]
+[21Jan2025 22:45:20.155] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[21Jan2025 22:45:55.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Disconnected
+[21Jan2025 22:45:55.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
+[21Jan2025 22:51:42.792] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2b2d8839
+[21Jan2025 22:51:42.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Goku177[/127.135.148.36:39771] logged in with entity id 8244 at (-415.94793504647305, 69.0, -1204.952653046826)
+[21Jan2025 22:51:42.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 joined the game
+[21Jan2025 22:51:42.815] [Server thread/INFO] [Jade/]: Syncing config to Goku177 (de39ec36-44f0-3f10-b028-f8687bba6755)
