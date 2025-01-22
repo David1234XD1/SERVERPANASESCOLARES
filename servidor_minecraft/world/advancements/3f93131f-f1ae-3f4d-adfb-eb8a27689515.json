@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-01-22 01:57:05 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/creeper": {
     "criteria": {
       "has_gunpowder": "2025-01-21 01:58:08 +0000"
@@ -302,6 +308,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 01:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 01:56:46 +0000"
     },
     "done": true
   },
@@ -431,6 +443,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/bullet_heavy": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 01:56:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-21 02:34:47 +0000"
@@ -464,6 +482,12 @@
   "cgm:recipes/cgm/grenade": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 22:35:15 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_medium": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 01:56:46 +0000"
     },
     "done": true
   },
@@ -530,6 +554,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-22 00:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-22 01:55:53 +0000"
     },
     "done": true
   },
@@ -960,6 +990,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-22 01:51:29 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/diamond_tier_upgrade": {
     "criteria": {
       "has_diamond": "2025-01-21 01:50:22 +0000"
@@ -1152,6 +1188,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/bullet_short": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 01:56:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-01-22 01:17:12 +0000"
@@ -1215,6 +1257,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-21 22:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-22 01:51:29 +0000"
     },
     "done": true
   },
@@ -1326,6 +1374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-01-22 01:51:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-01-21 01:29:19 +0000"
@@ -1386,6 +1440,7 @@
       "minecraft:cold_ocean": "2025-01-21 01:32:39 +0000",
       "minecraft:forest": "2025-01-21 01:23:55 +0000",
       "minecraft:frozen_peaks": "2025-01-22 01:46:52 +0000",
+      "minecraft:deep_dark": "2025-01-22 01:57:05 +0000",
       "minecraft:meadow": "2025-01-22 01:48:41 +0000",
       "minecraft:plains": "2025-01-21 01:32:46 +0000"
     },
@@ -1589,6 +1644,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/bullet_small": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 01:56:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-22 00:08:45 +0000"
@@ -1598,6 +1659,18 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2025-01-21 01:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-01-22 01:51:29 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_special": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 01:56:46 +0000"
     },
     "done": true
   },
@@ -1811,6 +1884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-22 01:51:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-01-21 02:34:47 +0000"
@@ -1955,6 +2034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-01-22 01:56:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-01-21 01:58:08 +0000"
@@ -2065,6 +2150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-01-22 01:51:29 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/m1014": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 22:38:23 +0000"
@@ -2128,6 +2219,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-22 00:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-22 01:51:29 +0000"
     },
     "done": true
   },
@@ -2203,6 +2300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-22 01:51:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-22 01:32:43 +0000"
@@ -2212,6 +2315,12 @@
   "travelersbackpack:recipes/travelersbackpack/skeleton": {
     "criteria": {
       "has_arrow": "2025-01-21 01:55:41 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_long": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 01:56:46 +0000"
     },
     "done": true
   },
@@ -2395,6 +2504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-22 01:56:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-21 01:27:35 +0000"
@@ -2440,6 +2555,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-01-21 02:23:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-01-22 01:56:16 +0000"
     },
     "done": true
   },
@@ -2563,6 +2684,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 01:56:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-22 00:08:45 +0000"
@@ -2680,6 +2807,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-01-22 01:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-22 01:51:29 +0000"
     },
     "done": true
   },
@@ -2863,6 +2996,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-01-22 01:51:29 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-01-21 22:35:17 +0000"
@@ -2914,6 +3053,12 @@
   "additionalguns:recipes/additionalguns/ots_03": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 22:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-01-22 01:51:29 +0000"
     },
     "done": true
   },
@@ -3025,6 +3170,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/shell": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 01:56:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-01-21 02:08:53 +0000"
@@ -3034,6 +3185,12 @@
   "travelersbackpack:recipes/travelersbackpack/hose_nozzle": {
     "criteria": {
       "has_iron": "2025-01-21 01:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-22 01:56:37 +0000"
     },
     "done": true
   },

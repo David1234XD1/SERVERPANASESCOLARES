@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 01:55:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 01:41:04 +0000"
@@ -377,6 +383,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/bullet_heavy": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 01:55:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-22 01:10:43 +0000"
@@ -416,6 +428,12 @@
   "cgm:recipes/cgm/grenade": {
     "criteria": {
       "has_iron_ingot": "2025-01-22 01:04:03 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_medium": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 01:55:19 +0000"
     },
     "done": true
   },
@@ -1003,6 +1021,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/bullet_short": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 01:55:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-22 01:10:09 +0000"
@@ -1389,6 +1413,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/bullet_small": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 01:55:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-22 01:10:43 +0000"
@@ -1398,6 +1428,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-01-21 02:43:25 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_special": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 01:55:19 +0000"
     },
     "done": true
   },
@@ -1935,6 +1971,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/bullet_long": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 01:55:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-01-21 01:25:57 +0000"
@@ -2226,6 +2268,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-01-22 01:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 01:55:19 +0000"
     },
     "done": true
   },
@@ -2634,6 +2682,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-01-22 01:07:41 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/shell": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 01:55:19 +0000"
     },
     "done": true
   },
