@@ -71,3 +71,28 @@
 [22Jan2025 01:07:07.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
 [22Jan2025 01:08:28.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Disconnected
 [22Jan2025 01:08:28.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
+[22Jan2025 01:13:21.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has completed the challenge [It Spreads]
+[22Jan2025 01:14:50.509] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@a6286b
+[22Jan2025 01:14:50.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/127.26.246.178:37669] logged in with entity id 27728 at (-438.55038902369427, 69.0, -504.5483638282522)
+[22Jan2025 01:14:50.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
+[22Jan2025 01:14:50.559] [Server thread/INFO] [Jade/]: Syncing config to Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4)
+[22Jan2025 01:15:44.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[22Jan2025 01:15:50.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[22Jan2025 01:16:21.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[22Jan2025 01:16:34.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[22Jan2025 01:16:45.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Knowledge of Death]
+[22Jan2025 01:16:45.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has reached the goal [Strong or Careful]
+[22Jan2025 01:16:45.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 was slain by Goku177
+[22Jan2025 01:16:45.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Your First Grave]
+[22Jan2025 01:16:45.978] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[22Jan2025 01:17:01.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=64, z=-13}
+[22Jan2025 01:17:05.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[22Jan2025 01:17:08.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[22Jan2025 01:17:34.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[22Jan2025 01:17:37.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[22Jan2025 01:17:52.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Elmegabyt12 to Tmarsi219]
+[22Jan2025 01:21:04.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 was eliminated by Tmarsi219
+[22Jan2025 01:21:04.546] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[22Jan2025 01:21:09.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRempanadass lost connection: Disconnected
+[22Jan2025 01:21:09.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass left the game
+[22Jan2025 01:21:14.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Elmegabyt12 to Tmarsi219]
