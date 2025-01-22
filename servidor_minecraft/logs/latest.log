@@ -54,3 +54,20 @@
 [22Jan2025 00:58:05.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
 [22Jan2025 00:58:17.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
 [22Jan2025 01:00:55.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Not Today, Thank You]
+[22Jan2025 01:03:57.446] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e38f3ad[id=<null>,name=Elmegabyt12,properties={},legacy=false] (/127.187.147.254:60399) lost connection: Disconnected
+[22Jan2025 01:04:03.510] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1cd172a7
+[22Jan2025 01:04:03.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elmegabyt12[/127.187.147.254:42813] logged in with entity id 25272 at (-435.30000001192093, 69.0, -506.0748017921243)
+[22Jan2025 01:04:03.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 joined the game
+[22Jan2025 01:04:03.586] [Server thread/INFO] [Jade/]: Syncing config to Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f)
+[22Jan2025 01:05:18.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elmegabyt12 lost connection: Timed out
+[22Jan2025 01:05:18.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 left the game
+[22Jan2025 01:05:56.202] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4b795a3c
+[22Jan2025 01:05:56.208] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elmegabyt12[/127.187.147.254:45465] logged in with entity id 25525 at (-439.63199234902646, 69.0, -508.30000001192093)
+[22Jan2025 01:05:56.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 joined the game
+[22Jan2025 01:05:56.251] [Server thread/INFO] [Jade/]: Syncing config to Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f)
+[22Jan2025 01:06:11.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Knowledge of Death]
+[22Jan2025 01:06:11.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [A Strange Grave Dust]
+[22Jan2025 01:06:53.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[22Jan2025 01:07:07.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[22Jan2025 01:08:28.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Disconnected
+[22Jan2025 01:08:28.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
