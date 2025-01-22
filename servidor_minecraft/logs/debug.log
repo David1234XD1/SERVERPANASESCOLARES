@@ -5389,3 +5389,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jan2025 23:02:36.652] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: updating channel with world=ServerLevel[world]
 [22Jan2025 23:02:36.652] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: r=(channel=1, pos=BlockPos{x=-446, y=69, z=-504})
 [22Jan2025 23:02:43.412] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: save with channel=1 at pos=BlockPos{x=-446, y=69, z=-504}
+[22Jan2025 23:05:38.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 23:05:38.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 23:06:43.061] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: save with channel=1 at pos=BlockPos{x=-446, y=69, z=-504}
+[22Jan2025 23:06:53.062] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: save with channel=1 at pos=BlockPos{x=-446, y=69, z=-504}
+[22Jan2025 23:06:53.387] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: remove receiver from channel: 1
+[22Jan2025 23:06:53.387] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: removing receiver at BlockPos{x=-446, y=69, z=-504} with channel: 1
+[22Jan2025 23:06:53.387] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: receiver count = 4
+[22Jan2025 23:10:38.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 23:10:38.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
