@@ -1332,6 +1332,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-01-22 01:45:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-01-21 02:18:22 +0000"
@@ -1373,8 +1379,14 @@
       "minecraft:taiga": "2025-01-21 02:20:35 +0000",
       "minecraft:beach": "2025-01-21 01:32:37 +0000",
       "minecraft:river": "2025-01-21 01:55:37 +0000",
+      "minecraft:stony_shore": "2025-01-22 01:44:11 +0000",
+      "minecraft:dripstone_caves": "2025-01-22 01:50:49 +0000",
+      "minecraft:grove": "2025-01-22 01:43:29 +0000",
+      "minecraft:jagged_peaks": "2025-01-22 01:43:25 +0000",
       "minecraft:cold_ocean": "2025-01-21 01:32:39 +0000",
       "minecraft:forest": "2025-01-21 01:23:55 +0000",
+      "minecraft:frozen_peaks": "2025-01-22 01:46:52 +0000",
+      "minecraft:meadow": "2025-01-22 01:48:41 +0000",
       "minecraft:plains": "2025-01-21 01:32:46 +0000"
     },
     "done": false
@@ -1907,6 +1919,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-01-22 01:48:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-21 01:26:22 +0000"
@@ -2017,6 +2035,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-01-22 01:47:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-22 00:08:45 +0000"
@@ -2074,6 +2098,12 @@
   "securitycraft:recipes/securitycraft/redstone_module": {
     "criteria": {
       "has_iron": "2025-01-21 01:29:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-22 01:47:41 +0000"
     },
     "done": true
   },
@@ -2248,6 +2278,12 @@
   "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-22 00:08:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-01-22 01:47:41 +0000"
     },
     "done": true
   },

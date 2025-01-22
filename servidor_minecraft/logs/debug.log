@@ -4491,3 +4491,51 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Jan2025 01:36:13.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Jan2025 01:41:13.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Jan2025 01:41:13.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 01:43:18.886] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[22Jan2025 01:43:18.886] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[22Jan2025 01:43:18.886] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[22Jan2025 01:43:18.886] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[22Jan2025 01:43:18.934] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[22Jan2025 01:43:18.935] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[22Jan2025 01:43:18.935] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[22Jan2025 01:43:18.935] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[22Jan2025 01:43:18.969] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[22Jan2025 01:43:18.969] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[22Jan2025 01:43:18.985] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[22Jan2025 01:43:18.986] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[22Jan2025 01:43:18.986] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[22Jan2025 01:43:18.986] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[22Jan2025 01:43:18.986] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: image length = 190299
+[22Jan2025 01:43:19.007] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: save to: ./world/./modernlife/
+[22Jan2025 01:43:19.091] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: initImage'd RGB WAS NULL
+[22Jan2025 01:43:19.099] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: width = 1218
+[22Jan2025 01:43:19.100] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: height = 697
+[22Jan2025 01:43:19.100] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: type = 5
+[22Jan2025 01:43:19.214] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundStopUsingCameraPacket
+[22Jan2025 01:44:53.909] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=210, y=3, z=-1408}
+[22Jan2025 01:44:53.910] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=208, y=3, z=-1406}
+[22Jan2025 01:45:11.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has completed the challenge [Free Willy]
+[22Jan2025 01:45:40.385] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundStopUsingCameraPacket
+[22Jan2025 01:45:47.801] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundStopUsingCameraPacket
+[22Jan2025 01:46:13.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 01:46:13.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 01:47:39.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported 4 entities to Tmarsi219]
+[22Jan2025 01:47:41.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has reached the goal [Strong or Careful]
+[22Jan2025 01:47:41.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass fell from a high place
+[22Jan2025 01:47:41.800] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MRempanadass with unique ID travelersbackpack.standard_22.01.2025-01.47.41.dat
+[22Jan2025 01:47:41.804] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 55 Y: 112 Z: -1740
+[22Jan2025 01:47:41.805] [Server thread/DEBUG] [tombstone/]: A new grave of the player MRempanadass was created at position [x:54, y:113, z:-1740, dim:minecraft:overworld]
+[22Jan2025 01:47:41.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [Your First Grave]
+[22Jan2025 01:47:41.806] [Server thread/INFO] [tombstone/]: The player MRempanadass has successfully been saved
+[22Jan2025 01:47:52.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Tmarsi219]
+[22Jan2025 01:48:17.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has reached the goal [Here They Come]
+[22Jan2025 01:48:28.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[22Jan2025 01:48:36.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[22Jan2025 01:48:41.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported 4 entities to Tmarsi219]
+[22Jan2025 01:48:55.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Who You Gonna Call?]
+[22Jan2025 01:48:56.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Who You Gonna Call?]
+[22Jan2025 01:50:01.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRempanadass moved too quickly! 10.122301008094297,0.1621414210270018,-0.07329265617499914
+[22Jan2025 01:50:39.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported 4 entities to Tmarsi219]
+[22Jan2025 01:51:13.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 01:51:13.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 01:52:04.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Goku177 to Tmarsi219]
