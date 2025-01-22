@@ -46,3 +46,11 @@
 [22Jan2025 00:43:32.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to MRempanadass]
 [22Jan2025 00:45:19.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
 [22Jan2025 00:46:17.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[22Jan2025 00:55:48.936] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2a223e89
+[22Jan2025 00:55:48.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Goku177[/127.135.148.36:51007] logged in with entity id 23088 at (-410.0827115599835, 62.0, -925.767459891237)
+[22Jan2025 00:55:48.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 joined the game
+[22Jan2025 00:55:48.958] [Server thread/INFO] [Jade/]: Syncing config to Goku177 (de39ec36-44f0-3f10-b028-f8687bba6755)
+[22Jan2025 00:56:04.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Goku177 to Tmarsi219]
+[22Jan2025 00:58:05.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[22Jan2025 00:58:17.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[22Jan2025 01:00:55.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Not Today, Thank You]

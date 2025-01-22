@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-22 00:57:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/taser": {
     "criteria": {
       "has_redstone": "2025-01-21 01:29:56 +0000"
@@ -1646,6 +1652,18 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-01-21 02:12:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-01-22 00:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-01-22 00:57:49 +0000"
     },
     "done": true
   },

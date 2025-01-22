@@ -77,6 +77,18 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/akm": {
+    "criteria": {
+      "has_planks": "2025-01-22 01:01:09 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/unica": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 00:59:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-21 02:13:26 +0000"
@@ -164,6 +176,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-01-21 01:41:44 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/ak74": {
+    "criteria": {
+      "has_planks": "2025-01-22 01:01:09 +0000"
     },
     "done": true
   },
@@ -470,6 +488,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/holo_scope": {
+    "criteria": {
+      "has_redstone": "2025-01-22 00:59:11 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/sheep": {
     "criteria": {
       "has_white_wool": "2025-01-21 01:29:38 +0000"
@@ -620,6 +644,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/bullet_heavy": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 00:59:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-21 01:57:30 +0000"
@@ -635,6 +665,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 01:51:46 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_medium": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 00:59:31 +0000"
     },
     "done": true
   },
@@ -656,15 +692,33 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/medium_scope": {
+    "criteria": {
+      "has_redstone": "2025-01-22 00:59:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-01-21 01:55:50 +0000"
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/aks74u": {
+    "criteria": {
+      "has_planks": "2025-01-22 01:01:09 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/skeleton": {
     "criteria": {
       "has_arrow": "2025-01-21 01:55:28 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_long": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 00:59:31 +0000"
     },
     "done": true
   },
@@ -707,6 +761,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-21 02:13:26 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/schwarzlose": {
+    "criteria": {
+      "has_oak_planks": "2025-01-22 01:01:09 +0000"
     },
     "done": true
   },
@@ -761,6 +821,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 01:51:46 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/kobra": {
+    "criteria": {
+      "has_redstone": "2025-01-22 00:59:11 +0000"
     },
     "done": true
   },
@@ -857,6 +923,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-21 01:29:03 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/zerkalo_scope": {
+    "criteria": {
+      "has_redstone": "2025-01-22 00:59:11 +0000"
     },
     "done": true
   },
@@ -1042,6 +1114,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/over_under": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-22 00:59:21 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/chicken": {
     "criteria": {
       "has_feather": "2025-01-21 01:30:38 +0000"
@@ -1075,6 +1153,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-21 01:26:21 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/g11": {
+    "criteria": {
+      "has_redstone": "2025-01-22 00:59:11 +0000"
     },
     "done": true
   },
@@ -1288,6 +1372,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/mammoth": {
+    "criteria": {
+      "has_oak_planks": "2025-01-22 01:01:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-01-21 01:29:38 +0000"
@@ -1339,6 +1429,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-01-21 02:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-22 01:00:55 +0000"
     },
     "done": true
   },
@@ -1492,6 +1588,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/bazooka": {
+    "criteria": {
+      "has_redstone": "2025-01-22 00:59:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-01-21 02:18:27 +0000"
@@ -1519,6 +1621,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-01-21 02:09:45 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_short": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 00:59:31 +0000"
     },
     "done": true
   },
@@ -1570,6 +1678,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/shell": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 00:59:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 01:29:38 +0000"
@@ -1609,6 +1723,12 @@
   "travelersbackpack:recipes/travelersbackpack/backpack_tank": {
     "criteria": {
       "has_iron": "2025-01-21 01:51:46 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/python": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 00:59:31 +0000"
     },
     "done": true
   },
@@ -1906,6 +2026,18 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/mat_49": {
+    "criteria": {
+      "has_oak_planks": "2025-01-22 01:01:09 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/short_scope": {
+    "criteria": {
+      "has_redstone": "2025-01-22 00:59:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-21 01:33:51 +0000"
@@ -1954,6 +2086,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/bullet_small": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 00:59:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-01-21 01:39:49 +0000"
@@ -1975,6 +2113,12 @@
   "travelersbackpack:recipes/travelersbackpack/ocelot": {
     "criteria": {
       "has_cod": "2025-01-21 01:36:39 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/bullet_special": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-22 00:59:31 +0000"
     },
     "done": true
   },
