@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-01-22 02:30:24 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2025-01-22 01:57:05 +0000"
@@ -1287,6 +1293,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-21 01:27:35 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-01-22 02:30:24 +0000"
     },
     "done": true
   },
@@ -3053,6 +3065,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv3": {
     "criteria": {
       "has_iron": "2025-01-21 01:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-22 02:28:23 +0000"
     },
     "done": true
   },
