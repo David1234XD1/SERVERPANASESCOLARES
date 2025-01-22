@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-22 02:17:11 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2025-01-22 01:58:50 +0000"
@@ -591,6 +597,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-21 02:10:28 +0000",
       "minecraft:spider": "2025-01-21 02:12:55 +0000",
+      "minecraft:creeper": "2025-01-22 02:17:17 +0000",
       "minecraft:zombie": "2025-01-21 02:10:33 +0000"
     },
     "done": false
@@ -1826,6 +1833,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-01-22 02:18:55 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/scar": {
     "criteria": {
       "has_iron_ingot": "2025-01-22 01:08:22 +0000"
@@ -2525,6 +2538,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-01-22 02:18:55 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/hay": {
     "criteria": {
       "has_wheat": "2025-01-21 01:41:44 +0000"
@@ -2828,6 +2847,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-01-21 02:18:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-01-22 02:12:27 +0000"
     },
     "done": true
   },

@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-22 02:20:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_green_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-22 01:10:43 +0000"
@@ -260,6 +266,12 @@
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2025-01-22 02:01:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-01-22 02:12:52 +0000"
     },
     "done": true
   },
@@ -551,6 +563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-22 02:18:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 01:41:04 +0000"
@@ -614,6 +632,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-01-21 01:59:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-22 02:20:05 +0000"
     },
     "done": true
   },
@@ -829,6 +853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-22 02:18:48 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/deeperdarker/echo_boat": {
     "criteria": {
       "in_water": "2025-01-21 01:27:02 +0000"
@@ -994,6 +1024,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 01:41:04 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/basic_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-01-22 02:12:52 +0000"
     },
     "done": true
   },
@@ -1714,6 +1750,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/advanced_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-01-22 02:12:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-22 01:10:43 +0000"
@@ -1723,6 +1765,12 @@
   "additionalguns:recipes/additionalguns/m16a2": {
     "criteria": {
       "has_iron_ingot": "2025-01-22 01:15:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-22 02:19:21 +0000"
     },
     "done": true
   },
@@ -1759,6 +1807,12 @@
   "additionalguns:recipes/additionalguns/muzzle_brake": {
     "criteria": {
       "has_iron_nugget": "2025-01-22 01:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-22 02:12:52 +0000"
     },
     "done": true
   },
@@ -1800,7 +1854,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-01-21 01:38:38 +0000"
+      "bread": "2025-01-21 01:38:38 +0000",
+      "rotten_flesh": "2025-01-22 02:18:20 +0000"
     },
     "done": false
   },
@@ -1975,6 +2030,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-01-21 01:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-22 02:12:52 +0000"
     },
     "done": true
   },
@@ -2824,6 +2885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-22 02:18:48 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/casing_special": {
     "criteria": {
       "has_iron_nugget": "2025-01-22 01:04:03 +0000"
@@ -3013,6 +3080,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-21 01:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-22 02:19:21 +0000"
     },
     "done": true
   },

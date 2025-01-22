@@ -4692,3 +4692,59 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Jan2025 02:12:15.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
 [22Jan2025 02:12:20.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [The Song of the Dragons]
 [22Jan2025 02:12:27.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [The Song of the Dragons]
+[22Jan2025 02:13:01.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[22Jan2025 02:14:05.776] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[22Jan2025 02:14:05.776] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[22Jan2025 02:14:05.791] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[22Jan2025 02:14:05.792] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[22Jan2025 02:14:05.842] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[22Jan2025 02:14:05.842] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[22Jan2025 02:14:05.842] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[22Jan2025 02:14:05.842] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[22Jan2025 02:14:05.842] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: image length = 90711
+[22Jan2025 02:14:05.867] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: save to: ./world/./modernlife/
+[22Jan2025 02:14:05.969] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: initImage'd RGB WAS NULL
+[22Jan2025 02:14:05.978] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: width = 1218
+[22Jan2025 02:14:05.978] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: height = 697
+[22Jan2025 02:14:05.978] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: type = 5
+[22Jan2025 02:14:06.062] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundStopUsingCameraPacket
+[22Jan2025 02:14:15.317] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundPrintSizePacket
+[22Jan2025 02:14:15.318] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: check camera
+[22Jan2025 02:14:15.324] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: finished checking camera
+[22Jan2025 02:14:25.173] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundRequestCanvasPacket
+[22Jan2025 02:14:25.189] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: initImage'd RGB WAS NULL
+[22Jan2025 02:14:25.200] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: width = 1218
+[22Jan2025 02:14:25.200] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: height = 697
+[22Jan2025 02:14:25.200] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: type = 5
+[22Jan2025 02:14:25.261] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: sent reply to canvas request
+[22Jan2025 02:14:25.282] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundRequestCanvasPacket
+[22Jan2025 02:14:25.290] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: initImage'd RGB WAS NULL
+[22Jan2025 02:14:25.296] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: width = 1218
+[22Jan2025 02:14:25.296] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: height = 697
+[22Jan2025 02:14:25.296] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: type = 5
+[22Jan2025 02:14:25.347] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: sent reply to canvas request
+[22Jan2025 02:14:32.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to MRempanadass]
+[22Jan2025 02:14:34.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[22Jan2025 02:14:37.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[22Jan2025 02:14:39.290] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundRequestCanvasPacket
+[22Jan2025 02:14:39.298] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: initImage'd RGB WAS NULL
+[22Jan2025 02:14:39.304] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: width = 1218
+[22Jan2025 02:14:39.304] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: height = 697
+[22Jan2025 02:14:39.304] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: type = 5
+[22Jan2025 02:14:39.356] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: sent reply to canvas request
+[22Jan2025 02:15:20.311] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[22Jan2025 02:15:20.311] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Recalculate image checksum for ID=4
+[22Jan2025 02:15:20.321] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: initImage'd RGB WAS NULL
+[22Jan2025 02:15:20.327] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: width = 1218
+[22Jan2025 02:15:20.327] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: height = 697
+[22Jan2025 02:15:20.327] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: type = 5
+[22Jan2025 02:15:20.398] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 4, server=742896186, client=742896186
+[22Jan2025 02:16:16.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 02:16:16.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 02:18:55.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Ashes 'n Bones]
+[22Jan2025 02:18:55.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [A Strange Grave Dust]
+[22Jan2025 02:19:54.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [Rotten to the Core]
+[22Jan2025 02:21:16.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 02:21:16.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 02:22:50.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[22Jan2025 02:22:54.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to MRempanadass]
