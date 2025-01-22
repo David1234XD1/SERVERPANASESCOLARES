@@ -262,3 +262,5 @@
 [22Jan2025 02:41:10.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Elmegabyt12]
 [22Jan2025 02:43:03.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Tmarsi219]
 [22Jan2025 02:43:06.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[22Jan2025 02:44:42.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Disconnected
+[22Jan2025 02:44:42.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game

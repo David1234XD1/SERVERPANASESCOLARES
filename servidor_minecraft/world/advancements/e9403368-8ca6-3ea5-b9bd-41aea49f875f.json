@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-22 02:50:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 01:41:04 +0000"
@@ -170,6 +176,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-01-21 01:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-22 02:50:56 +0000"
     },
     "done": true
   },
@@ -401,6 +413,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-22 02:50:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-01-21 01:41:04 +0000"
@@ -470,6 +488,12 @@
   "cgm:recipes/cgm/medium_scope": {
     "criteria": {
       "has_iron_ingot": "2025-01-22 01:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-22 02:50:56 +0000"
     },
     "done": true
   },
@@ -883,6 +907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-22 02:50:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-21 02:44:08 +0000"
@@ -1018,6 +1048,12 @@
   "cgm:recipes/cgm/assault_rifle": {
     "criteria": {
       "has_iron_ingot": "2025-01-22 01:15:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-22 02:50:56 +0000"
     },
     "done": true
   },
@@ -1222,6 +1258,12 @@
   "securitycraft:recipes/securitycraft/camera_monitor": {
     "criteria": {
       "has_iron": "2025-01-21 01:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-22 02:50:56 +0000"
     },
     "done": true
   },
@@ -1654,6 +1696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-22 02:50:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-01-21 01:38:49 +0000"
@@ -1846,6 +1894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-22 02:50:56 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-01-22 01:23:46 +0000"
@@ -2018,6 +2072,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 01:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-22 02:50:56 +0000"
     },
     "done": true
   },
@@ -2204,6 +2264,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-01-21 01:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-22 02:50:56 +0000"
     },
     "done": true
   },
@@ -2441,6 +2507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-22 02:50:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/claymore": {
     "criteria": {
       "has_redstone": "2025-01-22 01:07:41 +0000"
@@ -2621,6 +2693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-22 02:50:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-01-21 01:25:57 +0000"
@@ -2708,6 +2786,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-01-21 02:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-22 02:50:56 +0000"
     },
     "done": true
   },
@@ -3038,6 +3122,12 @@
   "securitycraft:recipes/securitycraft/briefcase": {
     "criteria": {
       "has_iron": "2025-01-21 01:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-22 02:50:56 +0000"
     },
     "done": true
   },

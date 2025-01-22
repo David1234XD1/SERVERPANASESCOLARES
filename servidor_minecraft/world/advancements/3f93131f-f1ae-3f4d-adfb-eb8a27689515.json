@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keypad_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-01-22 02:43:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-22 00:08:45 +0000"
@@ -758,6 +764,7 @@
       "minecraft:slime": "2025-01-21 02:18:11 +0000",
       "minecraft:phantom": "2025-01-21 02:57:47 +0000",
       "minecraft:witch": "2025-01-21 02:25:12 +0000",
+      "minecraft:cave_spider": "2025-01-22 02:42:05 +0000",
       "minecraft:zombie": "2025-01-21 01:59:03 +0000"
     },
     "done": false
@@ -2666,6 +2673,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keycard_lv1_reset": {
+    "criteria": {
+      "has_keycard": "2025-01-22 02:46:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-22 00:08:45 +0000"
@@ -3053,6 +3066,12 @@
   "securitycraft:recipes/securitycraft/reinforced_oak_slab": {
     "criteria": {
       "has_block": "2025-01-22 02:08:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/scanner_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-01-22 02:43:58 +0000"
     },
     "done": true
   },

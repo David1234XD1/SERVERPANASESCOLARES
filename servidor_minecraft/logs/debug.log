@@ -4994,3 +4994,42 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Jan2025 02:41:16.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Jan2025 02:43:03.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Tmarsi219]
 [22Jan2025 02:43:06.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[22Jan2025 02:44:42.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Disconnected
+[22Jan2025 02:44:42.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
+[22Jan2025 02:46:16.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 02:46:16.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 02:51:16.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 02:51:16.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 02:53:21.360] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[22Jan2025 02:53:21.360] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[22Jan2025 02:53:21.406] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[22Jan2025 02:53:21.406] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[22Jan2025 02:53:21.439] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[22Jan2025 02:53:21.439] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[22Jan2025 02:53:21.517] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[22Jan2025 02:53:21.517] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[22Jan2025 02:53:21.517] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundMultipartCameraPacket
+[22Jan2025 02:53:21.517] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[22Jan2025 02:53:21.517] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: image length = 128278
+[22Jan2025 02:53:21.537] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: save to: ./world/./modernlife/
+[22Jan2025 02:53:21.587] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: initImage'd RGB WAS NULL
+[22Jan2025 02:53:21.592] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: width = 1218
+[22Jan2025 02:53:21.592] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: height = 697
+[22Jan2025 02:53:21.592] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: type = 5
+[22Jan2025 02:53:21.665] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundStopUsingCameraPacket
+[22Jan2025 02:53:34.964] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundPrintSizePacket
+[22Jan2025 02:53:34.964] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: check camera
+[22Jan2025 02:53:34.967] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: finished checking camera
+[22Jan2025 02:53:35.591] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[22Jan2025 02:53:35.591] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Recalculate image checksum for ID=4
+[22Jan2025 02:53:35.600] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: initImage'd RGB WAS NULL
+[22Jan2025 02:53:35.605] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: width = 1218
+[22Jan2025 02:53:35.605] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: height = 697
+[22Jan2025 02:53:35.605] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: type = 5
+[22Jan2025 02:53:35.667] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 4, server=742896186, client=742896186
+[22Jan2025 02:53:46.042] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundRequestCanvasPacket
+[22Jan2025 02:53:46.049] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: initImage'd RGB WAS NULL
+[22Jan2025 02:53:46.055] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: width = 1218
+[22Jan2025 02:53:46.055] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: height = 697
+[22Jan2025 02:53:46.055] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: type = 5
+[22Jan2025 02:53:46.108] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: sent reply to canvas request
