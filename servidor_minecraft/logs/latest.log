@@ -119,3 +119,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jan2025 22:30:36.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass joined the game
 [22Jan2025 22:30:36.149] [Server thread/INFO] [Jade/]: Syncing config to MRempanadass (3f93131f-f1ae-3f4d-adfb-eb8a27689515)
 [22Jan2025 22:30:40.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4316ms or 86 ticks behind
+[22Jan2025 22:47:02.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [We Need to Go Deeper]

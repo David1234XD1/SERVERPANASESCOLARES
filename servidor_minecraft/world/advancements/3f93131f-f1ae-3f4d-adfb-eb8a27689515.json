@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-22 22:47:15 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2025-01-22 19:26:05 +0000"
@@ -614,6 +620,12 @@
   "securitycraft:recipes/securitycraft/portable_radar": {
     "criteria": {
       "has_redstone": "2025-01-21 01:29:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-22 22:47:15 +0000"
     },
     "done": true
   },
@@ -1262,6 +1274,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-01-22 22:47:15 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/assault_rifle": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 22:38:23 +0000"
@@ -1821,6 +1839,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-22 22:47:02 +0000"
+    },
+    "done": false
+  },
   "additionalguns:recipes/additionalguns/bullet_small": {
     "criteria": {
       "has_gold_nugget": "2025-01-22 01:56:46 +0000"
@@ -2007,6 +2031,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-01-22 22:47:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-01-21 01:58:36 +0000"
@@ -2034,6 +2064,12 @@
   "securitycraft:recipes/securitycraft/reinforced_oak_stairs": {
     "criteria": {
       "has_block": "2025-01-22 02:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-22 22:47:02 +0000"
     },
     "done": true
   },
@@ -2226,6 +2262,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-01-21 01:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-22 22:47:15 +0000"
     },
     "done": true
   },
@@ -2534,6 +2576,12 @@
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
       "bestiary": "2025-01-22 02:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-22 22:47:15 +0000"
     },
     "done": true
   },
@@ -2909,6 +2957,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-22 22:47:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_cobblestone_wall": {
     "criteria": {
       "has_block": "2025-01-22 20:23:31 +0000"
@@ -3230,6 +3284,12 @@
   "securitycraft:recipes/securitycraft/scanner_door_item": {
     "criteria": {
       "has_reinforced_door": "2025-01-22 02:43:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/quartz": {
+    "criteria": {
+      "has_quartz": "2025-01-22 22:47:15 +0000"
     },
     "done": true
   },
@@ -3611,6 +3671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-22 22:47:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-22 00:08:45 +0000"
@@ -3716,6 +3782,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-01-21 01:26:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-22 22:47:15 +0000"
     },
     "done": true
   },

@@ -2696,3 +2696,49 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jan2025 22:35:38.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Jan2025 22:40:38.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Jan2025 22:40:38.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 22:45:38.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 22:45:38.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 22:47:02.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [We Need to Go Deeper]
+[22Jan2025 22:50:38.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 22:50:38.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 22:53:01.274] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: PowerReceiverBlockEntity CONSTRUCTOR
+[22Jan2025 22:53:01.276] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: removing receiver at BlockPos{x=-447, y=69, z=-506} with channel: 0
+[22Jan2025 22:53:01.276] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: receiver count = 1
+[22Jan2025 22:53:01.276] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: adding receiver at BlockPos{x=-447, y=69, z=-506} with channel: 0
+[22Jan2025 22:53:01.276] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: receiver count = 1
+[22Jan2025 22:53:01.277] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: updating channel with world=ServerLevel[world]
+[22Jan2025 22:53:01.312] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: save with channel=0 at pos=BlockPos{x=-447, y=69, z=-506}
+[22Jan2025 22:53:04.270] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundWirelessChannelPacket
+[22Jan2025 22:53:04.270] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[22Jan2025 22:53:04.270] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: wirelessBlockState = Block{modernlife:power_receiver}[facing=west,powered=false]
+[22Jan2025 22:53:04.270] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: wirelessBlockPos = BlockPos{x=-447, y=69, z=-506}
+[22Jan2025 22:53:04.270] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: tileEntity = (channel=0, pos=BlockPos{x=-447, y=69, z=-506})
+[22Jan2025 22:53:04.270] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: removing receiver at BlockPos{x=-447, y=69, z=-506} with channel: 0
+[22Jan2025 22:53:04.270] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: receiver count = 1
+[22Jan2025 22:53:04.271] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: adding receiver at BlockPos{x=-447, y=69, z=-506} with channel: 1
+[22Jan2025 22:53:04.271] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: receiver count = 2
+[22Jan2025 22:53:04.271] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: updating channel with world=ServerLevel[world]
+[22Jan2025 22:53:04.272] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: r=(channel=1, pos=BlockPos{x=-447, y=69, z=-506})
+[22Jan2025 22:53:11.312] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: save with channel=1 at pos=BlockPos{x=-447, y=69, z=-506}
+[22Jan2025 22:53:57.978] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: remove receiver from channel: 1
+[22Jan2025 22:53:57.978] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: removing receiver at BlockPos{x=-447, y=69, z=-506} with channel: 1
+[22Jan2025 22:53:57.978] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: receiver count = 2
+[22Jan2025 22:54:57.571] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: PowerReceiverBlockEntity CONSTRUCTOR
+[22Jan2025 22:54:57.571] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: removing receiver at BlockPos{x=-449, y=69, z=-504} with channel: 0
+[22Jan2025 22:54:57.571] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: receiver count = 2
+[22Jan2025 22:54:57.571] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: adding receiver at BlockPos{x=-449, y=69, z=-504} with channel: 0
+[22Jan2025 22:54:57.571] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: receiver count = 2
+[22Jan2025 22:54:57.571] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: updating channel with world=ServerLevel[world]
+[22Jan2025 22:55:00.072] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundWirelessChannelPacket
+[22Jan2025 22:55:00.072] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: world = ServerLevel[world]
+[22Jan2025 22:55:00.072] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: wirelessBlockState = Block{modernlife:power_receiver}[facing=east,powered=false]
+[22Jan2025 22:55:00.072] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: wirelessBlockPos = BlockPos{x=-449, y=69, z=-504}
+[22Jan2025 22:55:00.073] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: tileEntity = (channel=0, pos=BlockPos{x=-449, y=69, z=-504})
+[22Jan2025 22:55:00.073] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: removing receiver at BlockPos{x=-449, y=69, z=-504} with channel: 0
+[22Jan2025 22:55:00.073] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: receiver count = 2
+[22Jan2025 22:55:00.073] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: adding receiver at BlockPos{x=-449, y=69, z=-504} with channel: 2
+[22Jan2025 22:55:00.073] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: receiver count = 3
+[22Jan2025 22:55:00.073] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: updating channel with world=ServerLevel[world]
+[22Jan2025 22:55:00.073] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: r=(channel=2, pos=BlockPos{x=-449, y=69, z=-504})
+[22Jan2025 22:55:07.211] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: save with channel=2 at pos=BlockPos{x=-449, y=69, z=-504}
+[22Jan2025 22:55:17.211] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: save with channel=2 at pos=BlockPos{x=-449, y=69, z=-504}
