@@ -41,3 +41,5 @@
 [22Jan2025 00:17:36.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
 [22Jan2025 00:18:55.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
 [22Jan2025 00:18:59.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[22Jan2025 00:35:23.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was slain by Drowned
+[22Jan2025 00:35:23.103] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved

@@ -2956,3 +2956,27 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Jan2025 00:21:13.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Jan2025 00:26:13.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Jan2025 00:26:13.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 00:31:13.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 00:31:13.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 00:35:23.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was slain by Drowned
+[22Jan2025 00:35:23.099] [Server thread/DEBUG] [tombstone/]: A new grave of the player Tmarsi219 was created at position [x:-468, y:63, z:-527, dim:minecraft:overworld]
+[22Jan2025 00:35:23.103] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[22Jan2025 00:36:13.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 00:36:13.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 00:40:08.615] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: server trash can
+[22Jan2025 00:40:15.295] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: server trash can
+[22Jan2025 00:40:17.290] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: server trash can
+[22Jan2025 00:40:50.833] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: server trash can
+[22Jan2025 00:40:53.909] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: server trash can
+[22Jan2025 00:40:55.753] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: server trash can
+[22Jan2025 00:40:57.194] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: server trash can
+[22Jan2025 00:40:59.097] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: server trash can
+[22Jan2025 00:41:01.130] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: server trash can
+[22Jan2025 00:41:02.958] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: server trash can
+[22Jan2025 00:41:04.869] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: server trash can
+[22Jan2025 00:41:06.794] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: server trash can
+[22Jan2025 00:41:08.092] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: server trash can
+[22Jan2025 00:41:10.439] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: server trash can
+[22Jan2025 00:41:12.294] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: server trash can
+[22Jan2025 00:41:13.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 00:41:13.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
