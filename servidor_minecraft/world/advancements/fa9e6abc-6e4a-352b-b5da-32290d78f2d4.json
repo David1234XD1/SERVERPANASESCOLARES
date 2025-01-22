@@ -437,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-22 00:48:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-01-21 03:00:54 +0000"
@@ -1740,6 +1746,12 @@
   "additionalguns:recipes/additionalguns/magnum": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 22:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-01-22 00:48:09 +0000"
     },
     "done": true
   },
