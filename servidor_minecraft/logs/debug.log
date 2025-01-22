@@ -4935,3 +4935,62 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Jan2025 02:33:20.651] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
 [22Jan2025 02:33:30.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Funeral Theft]
 [22Jan2025 02:33:30.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Elmegabyt12 to Tmarsi219]
+[22Jan2025 02:34:00.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has reached the goal [Here They Come]
+[22Jan2025 02:34:41.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Tmarsi219]
+[22Jan2025 02:34:43.618] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[22Jan2025 02:34:43.618] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Recalculate image checksum for ID=3
+[22Jan2025 02:34:43.627] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: initImage'd RGB WAS NULL
+[22Jan2025 02:34:43.634] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: width = 1218
+[22Jan2025 02:34:43.634] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: height = 697
+[22Jan2025 02:34:43.634] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: type = 5
+[22Jan2025 02:34:43.699] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 3, server=1678443644, client=1678443644
+[22Jan2025 02:34:44.015] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[22Jan2025 02:34:44.016] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Recalculate image checksum for ID=5
+[22Jan2025 02:34:44.024] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: initImage'd RGB WAS NULL
+[22Jan2025 02:34:44.031] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: width = 1218
+[22Jan2025 02:34:44.031] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: height = 697
+[22Jan2025 02:34:44.031] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: type = 5
+[22Jan2025 02:34:44.085] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 5, server=-987030851, client=-987030851
+[22Jan2025 02:34:44.368] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[22Jan2025 02:34:44.369] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Recalculate image checksum for ID=2
+[22Jan2025 02:34:44.376] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: initImage'd RGB WAS NULL
+[22Jan2025 02:34:44.382] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: width = 1218
+[22Jan2025 02:34:44.382] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: height = 697
+[22Jan2025 02:34:44.382] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: type = 5
+[22Jan2025 02:34:44.445] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 2, server=-1300301421, client=-1300301421
+[22Jan2025 02:34:44.742] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[22Jan2025 02:34:44.742] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Recalculate image checksum for ID=1
+[22Jan2025 02:34:44.750] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: initImage'd RGB WAS NULL
+[22Jan2025 02:34:44.756] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: width = 1218
+[22Jan2025 02:34:44.756] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: height = 697
+[22Jan2025 02:34:44.756] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: type = 5
+[22Jan2025 02:34:44.819] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 1, server=86717925, client=86717925
+[22Jan2025 02:34:47.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 lost connection: Disconnected
+[22Jan2025 02:34:47.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 left the game
+[22Jan2025 02:34:48.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set MRempanadass's game mode to Survival Mode]
+[22Jan2025 02:35:12.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Made MRempanadass a server operator]
+[22Jan2025 02:35:37.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MRempanadass: Set own game mode to Spectator Mode]
+[22Jan2025 02:35:38.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MRempanadass: Set own game mode to Survival Mode]
+[22Jan2025 02:35:40.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MRempanadass: Set own game mode to Spectator Mode]
+[22Jan2025 02:36:03.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MRempanadass: Set own game mode to Survival Mode]
+[22Jan2025 02:36:16.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 02:36:16.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 02:36:26.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Made MRempanadass no longer a server operator]
+[22Jan2025 02:36:28.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [Ashes 'n Bones]
+[22Jan2025 02:38:35.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to MRempanadass]
+[22Jan2025 02:38:37.745] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[22Jan2025 02:38:37.745] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Recalculate image checksum for ID=3
+[22Jan2025 02:38:37.754] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: initImage'd RGB WAS NULL
+[22Jan2025 02:38:37.760] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: width = 1218
+[22Jan2025 02:38:37.760] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: height = 697
+[22Jan2025 02:38:37.760] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: type = 5
+[22Jan2025 02:38:37.823] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 3, server=1678443644, client=1678443644
+[22Jan2025 02:39:22.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to MRempanadass]
+[22Jan2025 02:40:34.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[22Jan2025 02:40:58.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [Magic Writing]
+[22Jan2025 02:41:04.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to MRempanadass]
+[22Jan2025 02:41:10.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Elmegabyt12]
+[22Jan2025 02:41:16.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 02:41:16.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 02:43:03.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Tmarsi219]
+[22Jan2025 02:43:06.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]

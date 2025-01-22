@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keypad_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-01-22 02:36:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/taser": {
     "criteria": {
       "has_redstone": "2025-01-22 01:07:41 +0000"
@@ -1774,6 +1780,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-01-22 02:34:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-21 01:27:02 +0000"
@@ -2528,6 +2540,12 @@
   "securitycraft:recipes/securitycraft/reinforced_oak_slab": {
     "criteria": {
       "has_block": "2025-01-22 02:07:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/scanner_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-01-22 02:36:08 +0000"
     },
     "done": true
   },
