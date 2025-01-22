@@ -1,282 +1,76 @@
-[22Jan2025 00:00:38.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[22Jan2025 00:00:46.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 00:01:06.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[22Jan2025 00:01:14.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 00:01:39.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Diamonds!]
-[22Jan2025 00:02:00.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[22Jan2025 00:02:25.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 00:03:02.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [Voluntary Exile]
-[22Jan2025 00:03:49.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[22Jan2025 00:03:56.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 00:04:40.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was slain by Ice Dragon
-[22Jan2025 00:04:40.493] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[22Jan2025 00:05:39.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[22Jan2025 00:05:41.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 00:05:56.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[22Jan2025 00:06:02.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 00:06:30.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 suffocated in a wall whilst fighting Ice Dragon
-[22Jan2025 00:06:30.093] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[22Jan2025 00:06:36.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 was kicked for floating too long!
-[22Jan2025 00:06:37.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Flying is not enabled on this server
-[22Jan2025 00:06:37.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
-[22Jan2025 00:06:44.189] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@63a1e20d
-[22Jan2025 00:06:44.199] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/127.26.246.178:57881] logged in with entity id 9086 at (378.5114601120735, 184.6350465511125, -2748.452097210338)
-[22Jan2025 00:06:44.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
-[22Jan2025 00:06:44.217] [Server thread/INFO] [Jade/]: Syncing config to Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4)
-[22Jan2025 00:06:46.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2395ms or 47 ticks behind
-[22Jan2025 00:08:18.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[22Jan2025 00:08:25.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
-[22Jan2025 00:08:39.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[22Jan2025 00:08:47.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 00:09:18.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[22Jan2025 00:09:36.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved too quickly! -8.883753687194144,0.0,-5.247703685771739
-[22Jan2025 00:11:49.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved too quickly! 8.779341000181404,0.0,5.52160231468315
-[22Jan2025 00:12:42.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved too quickly! -2.773514992893496,-3.599999843549327,-9.52724606392394
-[22Jan2025 00:12:52.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved too quickly! 8.907137885016994,0.0,-6.486670225760463
-[22Jan2025 00:15:10.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has reached the goal [A Metropolis of Restless Souls]
-[22Jan2025 00:15:25.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
-[22Jan2025 00:15:43.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[22Jan2025 00:15:44.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[22Jan2025 00:17:17.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to MRempanadass]
-[22Jan2025 00:17:36.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 00:18:55.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[22Jan2025 00:18:59.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 00:35:23.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was slain by Drowned
-[22Jan2025 00:35:23.103] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[22Jan2025 00:43:32.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to MRempanadass]
-[22Jan2025 00:45:19.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[22Jan2025 00:46:17.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 00:55:48.936] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2a223e89
-[22Jan2025 00:55:48.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Goku177[/127.135.148.36:51007] logged in with entity id 23088 at (-410.0827115599835, 62.0, -925.767459891237)
-[22Jan2025 00:55:48.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 joined the game
-[22Jan2025 00:55:48.958] [Server thread/INFO] [Jade/]: Syncing config to Goku177 (de39ec36-44f0-3f10-b028-f8687bba6755)
-[22Jan2025 00:56:04.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Goku177 to Tmarsi219]
-[22Jan2025 00:58:05.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[22Jan2025 00:58:17.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 01:00:55.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Not Today, Thank You]
-[22Jan2025 01:03:57.446] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e38f3ad[id=<null>,name=Elmegabyt12,properties={},legacy=false] (/127.187.147.254:60399) lost connection: Disconnected
-[22Jan2025 01:04:03.510] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1cd172a7
-[22Jan2025 01:04:03.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elmegabyt12[/127.187.147.254:42813] logged in with entity id 25272 at (-435.30000001192093, 69.0, -506.0748017921243)
-[22Jan2025 01:04:03.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 joined the game
-[22Jan2025 01:04:03.586] [Server thread/INFO] [Jade/]: Syncing config to Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f)
-[22Jan2025 01:05:18.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elmegabyt12 lost connection: Timed out
-[22Jan2025 01:05:18.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 left the game
-[22Jan2025 01:05:56.202] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4b795a3c
-[22Jan2025 01:05:56.208] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elmegabyt12[/127.187.147.254:45465] logged in with entity id 25525 at (-439.63199234902646, 69.0, -508.30000001192093)
-[22Jan2025 01:05:56.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 joined the game
-[22Jan2025 01:05:56.251] [Server thread/INFO] [Jade/]: Syncing config to Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f)
-[22Jan2025 01:06:11.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Knowledge of Death]
-[22Jan2025 01:06:11.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [A Strange Grave Dust]
-[22Jan2025 01:06:53.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[22Jan2025 01:07:07.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 01:08:28.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Disconnected
-[22Jan2025 01:08:28.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
-[22Jan2025 01:13:21.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has completed the challenge [It Spreads]
-[22Jan2025 01:14:50.509] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@a6286b
-[22Jan2025 01:14:50.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/127.26.246.178:37669] logged in with entity id 27728 at (-438.55038902369427, 69.0, -504.5483638282522)
-[22Jan2025 01:14:50.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
-[22Jan2025 01:14:50.559] [Server thread/INFO] [Jade/]: Syncing config to Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4)
-[22Jan2025 01:15:44.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[22Jan2025 01:15:50.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 01:16:21.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[22Jan2025 01:16:34.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 01:16:45.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Knowledge of Death]
-[22Jan2025 01:16:45.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has reached the goal [Strong or Careful]
-[22Jan2025 01:16:45.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 was slain by Goku177
-[22Jan2025 01:16:45.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Your First Grave]
-[22Jan2025 01:16:45.978] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
-[22Jan2025 01:17:01.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=64, z=-13}
-[22Jan2025 01:17:05.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[22Jan2025 01:17:08.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 01:17:34.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[22Jan2025 01:17:37.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 01:17:52.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Elmegabyt12 to Tmarsi219]
-[22Jan2025 01:21:04.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 was eliminated by Tmarsi219
-[22Jan2025 01:21:04.546] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
-[22Jan2025 01:21:09.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRempanadass lost connection: Disconnected
-[22Jan2025 01:21:09.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass left the game
-[22Jan2025 01:21:14.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Elmegabyt12 to Tmarsi219]
-[22Jan2025 01:23:36.942] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@716d47d6
-[22Jan2025 01:23:36.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rexsi_111[/127.18.209.194:35049] logged in with entity id 29564 at (-4.5, 63.0, 3.5)
-[22Jan2025 01:23:36.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rexsi_111 joined the game
-[22Jan2025 01:23:36.974] [Server thread/INFO] [Jade/]: Syncing config to Rexsi_111 (105219a2-a8f8-32d3-be1b-ca13699057ce)
-[22Jan2025 01:23:37.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rexsi_111 has made the advancement [Ice and Fire]
-[22Jan2025 01:23:46.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [A Strange Grave Dust]
-[22Jan2025 01:23:50.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[22Jan2025 01:23:55.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 01:24:05.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Rexsi_111 to Tmarsi219]
-[22Jan2025 01:24:25.836] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2c41b7ef
-[22Jan2025 01:24:25.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MRempanadass[/127.225.88.44:47803] logged in with entity id 29884 at (-448.83677878521814, 69.0, -504.8268293983832)
-[22Jan2025 01:24:25.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass joined the game
-[22Jan2025 01:24:25.884] [Server thread/INFO] [Jade/]: Syncing config to MRempanadass (3f93131f-f1ae-3f4d-adfb-eb8a27689515)
-[22Jan2025 01:25:25.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRempanadass lost connection: Disconnected
-[22Jan2025 01:25:25.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass left the game
-[22Jan2025 01:26:16.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [We Need to Go Deeper]
-[22Jan2025 01:26:17.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [We Need to Go Deeper]
-[22Jan2025 01:26:17.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rexsi_111 lost connection: Disconnected
-[22Jan2025 01:26:17.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rexsi_111 left the game
-[22Jan2025 01:26:57.651] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ca9a36c
-[22Jan2025 01:26:57.657] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MRempanadass[/127.225.88.44:58335] logged in with entity id 30885 at (-446.7253516024272, 69.0, -506.324486469627)
-[22Jan2025 01:26:57.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass joined the game
-[22Jan2025 01:26:57.689] [Server thread/INFO] [Jade/]: Syncing config to MRempanadass (3f93131f-f1ae-3f4d-adfb-eb8a27689515)
-[22Jan2025 01:44:53.909] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=210, y=3, z=-1408}
-[22Jan2025 01:44:53.910] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=208, y=3, z=-1406}
-[22Jan2025 01:45:11.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has completed the challenge [Free Willy]
-[22Jan2025 01:47:39.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported 4 entities to Tmarsi219]
-[22Jan2025 01:47:41.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has reached the goal [Strong or Careful]
-[22Jan2025 01:47:41.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass fell from a high place
-[22Jan2025 01:47:41.800] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MRempanadass with unique ID travelersbackpack.standard_22.01.2025-01.47.41.dat
-[22Jan2025 01:47:41.804] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 55 Y: 112 Z: -1740
-[22Jan2025 01:47:41.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [Your First Grave]
-[22Jan2025 01:47:41.806] [Server thread/INFO] [tombstone/]: The player MRempanadass has successfully been saved
-[22Jan2025 01:47:52.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Tmarsi219]
-[22Jan2025 01:48:17.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has reached the goal [Here They Come]
-[22Jan2025 01:48:28.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[22Jan2025 01:48:36.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 01:48:41.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported 4 entities to Tmarsi219]
-[22Jan2025 01:48:55.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Who You Gonna Call?]
-[22Jan2025 01:48:56.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Who You Gonna Call?]
-[22Jan2025 01:50:01.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRempanadass moved too quickly! 10.122301008094297,0.1621414210270018,-0.07329265617499914
-[22Jan2025 01:50:39.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported 4 entities to Tmarsi219]
-[22Jan2025 01:52:04.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Goku177 to Tmarsi219]
-[22Jan2025 01:55:18.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3563ms or 71 ticks behind
-[22Jan2025 01:55:22.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Tmarsi219]
-[22Jan2025 01:55:29.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Tmarsi219]
-[22Jan2025 01:55:33.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 was slain by Fire Dragon
-[22Jan2025 01:55:33.184] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
-[22Jan2025 01:55:33.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Elmegabyt12 to Tmarsi219]
-[22Jan2025 01:55:53.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [Sweet Dreams]
-[22Jan2025 01:56:05.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[22Jan2025 01:56:09.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Knowledge of Death]
-[22Jan2025 01:56:09.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has reached the goal [Strong or Careful]
-[22Jan2025 01:56:09.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 was burnt to a crisp whilst fighting Fire Dragon
-[22Jan2025 01:56:09.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Your First Grave]
-[22Jan2025 01:56:09.243] [Server thread/INFO] [tombstone/]: The player Goku177 has successfully been saved
-[22Jan2025 01:56:12.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 01:56:15.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has reached the goal [Strong or Careful]
-[22Jan2025 01:56:15.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 suffocated in a wall whilst fighting Fire Dragon
-[22Jan2025 01:56:15.125] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[22Jan2025 01:56:16.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has reached the goal [Discreet Search]
-[22Jan2025 01:56:20.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass was doomed to fall by Fire Dragon
-[22Jan2025 01:56:20.354] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MRempanadass with unique ID travelersbackpack.standard_22.01.2025-01.56.20.dat
-[22Jan2025 01:56:20.354] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 462 Y: -3 Z: -2142
-[22Jan2025 01:56:20.357] [Server thread/INFO] [tombstone/]: The player MRempanadass has successfully been saved
-[22Jan2025 01:56:21.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[22Jan2025 01:56:23.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has reached the goal [Here They Come]
-[22Jan2025 01:56:27.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[22Jan2025 01:56:28.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 01:56:37.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [Ice Bucket Challenge]
-[22Jan2025 01:56:44.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has reached the goal [Chain Death]
-[22Jan2025 01:56:44.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 walked into fire whilst fighting Fire Dragon
-[22Jan2025 01:56:44.204] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[22Jan2025 01:56:47.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[22Jan2025 01:57:00.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[22Jan2025 01:57:02.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 01:57:24.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was doomed to fall
-[22Jan2025 01:57:24.202] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[22Jan2025 01:57:30.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Goku177 to Tmarsi219]
-[22Jan2025 01:57:33.541] [Server thread/WARN] [cgm/]: literal{MRempanadass}(3f93131f-f1ae-3f4d-adfb-eb8a27689515) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 171
-[22Jan2025 01:57:35.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass walked into fire whilst fighting Fire Dragon
-[22Jan2025 01:57:35.758] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for MRempanadass with unique ID travelersbackpack.standard_22.01.2025-01.57.35.dat
-[22Jan2025 01:57:35.758] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 463 Y: -6 Z: -2159
-[22Jan2025 01:57:35.761] [Server thread/INFO] [tombstone/]: The player MRempanadass has successfully been saved
-[22Jan2025 01:57:48.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 was burnt to a crisp whilst fighting Fire Dragon
-[22Jan2025 01:57:48.091] [Server thread/INFO] [tombstone/]: The player Goku177 has successfully been saved
-[22Jan2025 01:57:57.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was burnt to a crisp whilst fighting Fire Dragon
-[22Jan2025 01:57:57.951] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[22Jan2025 01:58:36.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Mother of Dragons]
-[22Jan2025 01:58:51.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Elmegabyt12 to Tmarsi219]
-[22Jan2025 01:59:28.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Mother of Dragons]
-[22Jan2025 01:59:36.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[22Jan2025 01:59:49.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 02:01:28.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[22Jan2025 02:01:40.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Goku177 to Tmarsi219]
-[22Jan2025 02:01:42.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 02:04:12.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[22Jan2025 02:04:16.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 02:04:30.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[22Jan2025 02:04:34.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [Sneak 100]
-[22Jan2025 02:06:05.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 02:06:11.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported 4 entities to Tmarsi219]
-[22Jan2025 02:08:37.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[22Jan2025 02:09:05.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 02:10:00.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Dragon Commander]
-[22Jan2025 02:10:33.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[22Jan2025 02:11:00.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 02:12:11.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[22Jan2025 02:12:15.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 02:12:20.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [The Song of the Dragons]
-[22Jan2025 02:12:27.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [The Song of the Dragons]
-[22Jan2025 02:13:01.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[22Jan2025 02:14:32.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to MRempanadass]
-[22Jan2025 02:14:34.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[22Jan2025 02:14:37.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 02:18:55.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Ashes 'n Bones]
-[22Jan2025 02:18:55.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [A Strange Grave Dust]
-[22Jan2025 02:19:54.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [Rotten to the Core]
-[22Jan2025 02:22:50.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[22Jan2025 02:22:54.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to MRempanadass]
-[22Jan2025 02:23:32.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Goku177]
-[22Jan2025 02:23:37.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 02:25:08.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[22Jan2025 02:25:09.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[22Jan2025 02:25:13.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 02:28:05.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[22Jan2025 02:28:06.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass fell from a high place
-[22Jan2025 02:28:06.268] [Server thread/INFO] [tombstone/]: The player MRempanadass has successfully been saved
-[22Jan2025 02:28:10.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 02:29:26.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Tmarsi219]
-[22Jan2025 02:29:46.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set MRempanadass's game mode to Spectator Mode]
-[22Jan2025 02:30:19.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRempanadass moved too quickly! 5.628451309868751,7.79999970635741,-3.834365341173566
-[22Jan2025 02:30:24.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [Quite the Renovation]
-[22Jan2025 02:30:37.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[22Jan2025 02:30:43.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 02:32:08.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRempanadass moved too quickly! 5.7491739023161585,-7.312499731775553,-4.839773321436553
-[22Jan2025 02:32:22.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRempanadass lost connection: Timed out
-[22Jan2025 02:32:22.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass left the game
-[22Jan2025 02:32:51.853] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7dd77e75
-[22Jan2025 02:32:51.859] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MRempanadass[/127.225.88.44:54673] logged in with entity id 61875 at (-489.15961062729815, 22.932778197041774, -173.76406115377)
-[22Jan2025 02:32:51.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass joined the game
-[22Jan2025 02:32:51.869] [Server thread/INFO] [Jade/]: Syncing config to MRempanadass (3f93131f-f1ae-3f4d-adfb-eb8a27689515)
-[22Jan2025 02:33:20.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 was annihilated by Goku177
-[22Jan2025 02:33:20.651] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
-[22Jan2025 02:33:30.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Funeral Theft]
-[22Jan2025 02:33:30.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Elmegabyt12 to Tmarsi219]
-[22Jan2025 02:34:00.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has reached the goal [Here They Come]
-[22Jan2025 02:34:41.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Tmarsi219]
-[22Jan2025 02:34:47.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 lost connection: Disconnected
-[22Jan2025 02:34:47.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 left the game
-[22Jan2025 02:34:48.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set MRempanadass's game mode to Survival Mode]
-[22Jan2025 02:35:12.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Made MRempanadass a server operator]
-[22Jan2025 02:35:37.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MRempanadass: Set own game mode to Spectator Mode]
-[22Jan2025 02:35:38.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MRempanadass: Set own game mode to Survival Mode]
-[22Jan2025 02:35:40.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MRempanadass: Set own game mode to Spectator Mode]
-[22Jan2025 02:36:03.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MRempanadass: Set own game mode to Survival Mode]
-[22Jan2025 02:36:26.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Made MRempanadass no longer a server operator]
-[22Jan2025 02:36:28.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [Ashes 'n Bones]
-[22Jan2025 02:38:35.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to MRempanadass]
-[22Jan2025 02:39:22.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to MRempanadass]
-[22Jan2025 02:40:34.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[22Jan2025 02:40:58.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [Magic Writing]
-[22Jan2025 02:41:04.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to MRempanadass]
-[22Jan2025 02:41:10.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Elmegabyt12]
-[22Jan2025 02:43:03.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Tmarsi219]
-[22Jan2025 02:43:06.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[22Jan2025 02:44:42.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Disconnected
-[22Jan2025 02:44:42.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
-[22Jan2025 02:54:38.084] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRempanadass lost connection: Disconnected
-[22Jan2025 02:54:38.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass left the game
-[22Jan2025 02:54:53.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[22Jan2025 02:54:53.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[22Jan2025 02:54:53.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[22Jan2025 02:54:53.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[22Jan2025 02:54:55.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22Jan2025 02:54:55.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22Jan2025 02:54:55.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[22Jan2025 02:54:55.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22Jan2025 02:54:55.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22Jan2025 02:54:55.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22Jan2025 02:54:55.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[22Jan2025 02:54:55.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22Jan2025 02:54:55.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[22Jan2025 02:54:56.077] [Server thread/INFO] [Framework/]: Unloading server configs...
+[22Jan2025 19:10:46.188] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+[22Jan2025 19:10:46.192] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[22Jan2025 19:10:46.661] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVERPANASESCOLARES/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[22Jan2025 19:10:47.022] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVERPANASESCOLARES/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[22Jan2025 19:10:47.025] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVERPANASESCOLARES/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[22Jan2025 19:10:47.027] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVERPANASESCOLARES/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[22Jan2025 19:10:47.030] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVERPANASESCOLARES/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[22Jan2025 19:10:47.191] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[22Jan2025 19:10:47.262] [main/ERROR] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Missing or unsupported mandatory dependencies:
+	Mod ID: 'balm', Requested by: 'waystones', Expected range: '[4.1.0,)', Actual version: '[MISSING]'
+[22Jan2025 19:10:49.098] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22Jan2025 19:10:49.251] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[22Jan2025 19:10:49.311] [main/WARN] [mixin/]: Reference map 'ambientsounds.mixins.refmap.json' for ambientsounds.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Jan2025 19:10:49.556] [main/WARN] [mixin/]: Error loading class: atomicstryker/multimine/client/MultiMineClient (java.lang.ClassNotFoundException: atomicstryker.multimine.client.MultiMineClient)
+[22Jan2025 19:10:49.556] [main/WARN] [mixin/]: @Mixin target atomicstryker.multimine.client.MultiMineClient was not found treechop.forge.compat.mixins.json:MultiMineMixin
+[22Jan2025 19:10:49.973] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[22Jan2025 19:10:49.973] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[22Jan2025 19:10:53.880] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[22Jan2025 19:10:55.806] [main/FATAL] [net.minecraftforge.fml.ModLoader/CORE]: Error during pre-loading phase
+net.minecraftforge.fml.ModLoadingException: Mod §ewaystones§r requires §6balm§r §o4.1.0 or above§r
+§7Currently, §6balm§r§7 is §o§nnot installed
+	at net.minecraftforge.fml.ModLoadingException.lambda$fromEarlyException$0(ModLoadingException.java:50) ~[fmlcore-1.19.2-43.4.2.jar%23154!/:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:720) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.<init>(ModLoader.java:99) ~[fmlcore-1.19.2-43.4.2.jar%23154!/:?]
+	at net.minecraftforge.fml.ModLoader.get(ModLoader.java:131) ~[fmlcore-1.19.2-43.4.2.jar%23154!/:?]
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:32) ~[forge-1.19.2-43.4.2-universal.jar%23158!/:?]
+	at net.minecraft.server.Main.main(Main.java:113) ~[server-1.19.2-20220805.130853-srg.jar%23153!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[22Jan2025 19:10:55.927] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-01-22_19.10.55-fml.txt
+[22Jan2025 19:10:55.932] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
+	Mod §ewaystones§r requires §6balm§r §o4.1.0 or above§r
+§7Currently, §6balm§r§7 is §o§nnot installed
+]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:152) ~[fmlcore-1.19.2-43.4.2.jar%23154!/:?]
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:32) ~[forge-1.19.2-43.4.2-universal.jar%23158!/:?]
+	at net.minecraft.server.Main.main(Main.java:113) ~[server-1.19.2-20220805.130853-srg.jar%23153!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.2.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
