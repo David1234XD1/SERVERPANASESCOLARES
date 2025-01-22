@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-22 01:27:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-01-22 00:02:29 +0000"
@@ -440,6 +446,12 @@
   "securitycraft:recipes/securitycraft/portable_radar": {
     "criteria": {
       "has_redstone": "2025-01-21 02:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-22 01:27:47 +0000"
     },
     "done": true
   },
@@ -908,6 +920,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-01-22 01:27:47 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/assault_rifle": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 22:33:15 +0000"
@@ -1355,6 +1373,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-22 01:26:17 +0000"
+    },
+    "done": false
+  },
   "additionalguns:recipes/additionalguns/bullet_small": {
     "criteria": {
       "has_gold_nugget": "2025-01-21 22:33:15 +0000"
@@ -1487,6 +1511,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-01-22 01:27:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-01-21 01:59:48 +0000"
@@ -1496,6 +1526,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-01-21 01:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-22 01:26:17 +0000"
     },
     "done": true
   },
@@ -1631,6 +1667,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-22 01:27:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/blacklist_module": {
     "criteria": {
       "has_iron": "2025-01-21 01:43:19 +0000"
@@ -1720,6 +1762,7 @@
       "cooked_porkchop": "2025-01-21 01:35:02 +0000",
       "chicken": "2025-01-21 01:39:31 +0000",
       "cooked_beef": "2025-01-22 01:07:11 +0000",
+      "apple": "2025-01-22 01:21:24 +0000",
       "bread": "2025-01-21 01:41:58 +0000",
       "rotten_flesh": "2025-01-21 01:40:55 +0000",
       "carrot": "2025-01-21 02:10:23 +0000"
@@ -1903,6 +1946,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-01-21 02:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-22 01:27:47 +0000"
     },
     "done": true
   },
@@ -2167,6 +2216,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-01-22 01:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-22 01:26:17 +0000"
     },
     "done": true
   },
@@ -2437,6 +2492,12 @@
   "additionalguns:recipes/additionalguns/p250": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 22:33:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/quartz": {
+    "criteria": {
+      "has_quartz": "2025-01-22 01:27:47 +0000"
     },
     "done": true
   },
@@ -2752,6 +2813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-22 01:27:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-22 01:04:17 +0000"
@@ -2833,6 +2900,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-01-21 02:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-22 01:27:47 +0000"
     },
     "done": true
   },

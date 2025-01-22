@@ -96,3 +96,26 @@
 [22Jan2025 01:21:09.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRempanadass lost connection: Disconnected
 [22Jan2025 01:21:09.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass left the game
 [22Jan2025 01:21:14.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Elmegabyt12 to Tmarsi219]
+[22Jan2025 01:23:36.942] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@716d47d6
+[22Jan2025 01:23:36.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rexsi_111[/127.18.209.194:35049] logged in with entity id 29564 at (-4.5, 63.0, 3.5)
+[22Jan2025 01:23:36.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rexsi_111 joined the game
+[22Jan2025 01:23:36.974] [Server thread/INFO] [Jade/]: Syncing config to Rexsi_111 (105219a2-a8f8-32d3-be1b-ca13699057ce)
+[22Jan2025 01:23:37.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rexsi_111 has made the advancement [Ice and Fire]
+[22Jan2025 01:23:46.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [A Strange Grave Dust]
+[22Jan2025 01:23:50.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[22Jan2025 01:23:55.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[22Jan2025 01:24:05.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Rexsi_111 to Tmarsi219]
+[22Jan2025 01:24:25.836] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2c41b7ef
+[22Jan2025 01:24:25.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MRempanadass[/127.225.88.44:47803] logged in with entity id 29884 at (-448.83677878521814, 69.0, -504.8268293983832)
+[22Jan2025 01:24:25.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass joined the game
+[22Jan2025 01:24:25.884] [Server thread/INFO] [Jade/]: Syncing config to MRempanadass (3f93131f-f1ae-3f4d-adfb-eb8a27689515)
+[22Jan2025 01:25:25.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRempanadass lost connection: Disconnected
+[22Jan2025 01:25:25.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass left the game
+[22Jan2025 01:26:16.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [We Need to Go Deeper]
+[22Jan2025 01:26:17.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [We Need to Go Deeper]
+[22Jan2025 01:26:17.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rexsi_111 lost connection: Disconnected
+[22Jan2025 01:26:17.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rexsi_111 left the game
+[22Jan2025 01:26:57.651] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ca9a36c
+[22Jan2025 01:26:57.657] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MRempanadass[/127.225.88.44:58335] logged in with entity id 30885 at (-446.7253516024272, 69.0, -506.324486469627)
+[22Jan2025 01:26:57.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass joined the game
+[22Jan2025 01:26:57.689] [Server thread/INFO] [Jade/]: Syncing config to MRempanadass (3f93131f-f1ae-3f4d-adfb-eb8a27689515)

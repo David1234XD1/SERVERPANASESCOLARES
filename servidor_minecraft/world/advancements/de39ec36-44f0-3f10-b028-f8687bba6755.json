@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2025-01-22 01:23:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 01:51:46 +0000"
@@ -194,6 +200,12 @@
   "cgm:recipes/cgm/specialised_grip": {
     "criteria": {
       "has_iron_ingot": "2025-01-22 01:10:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-01-22 01:22:35 +0000"
     },
     "done": true
   },
@@ -494,6 +506,12 @@
   "securitycraft:recipes/securitycraft/storage_module": {
     "criteria": {
       "has_iron": "2025-01-21 01:51:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-01-22 01:23:43 +0000"
     },
     "done": true
   },
@@ -865,6 +883,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/basic_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-01-22 01:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-01-21 01:47:32 +0000"
@@ -1069,6 +1093,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-22 01:23:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-01-21 01:30:00 +0000",
@@ -1177,6 +1207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-22 01:23:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-01-21 01:42:47 +0000"
@@ -1248,6 +1284,12 @@
       "has_wheat": "2025-01-21 01:41:44 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-22 01:26:17 +0000"
+    },
+    "done": false
   },
   "additionalguns:recipes/additionalguns/bullet_small": {
     "criteria": {
@@ -1333,6 +1375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-22 01:23:56 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/ak104": {
     "criteria": {
       "has_iron_ingot": "2025-01-22 01:08:22 +0000"
@@ -1390,6 +1438,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-01-21 01:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-22 01:26:16 +0000"
     },
     "done": true
   },
@@ -1489,6 +1543,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/advanced_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-01-22 01:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 01:29:38 +0000"
@@ -1546,6 +1606,12 @@
   "additionalguns:recipes/additionalguns/muzzle_brake": {
     "criteria": {
       "has_iron_ingot": "2025-01-22 01:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-22 01:22:35 +0000"
     },
     "done": true
   },
@@ -1729,6 +1795,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-01-21 01:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-22 01:22:35 +0000"
     },
     "done": true
   },
@@ -1996,6 +2068,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-22 01:26:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-21 01:33:51 +0000"
@@ -2017,6 +2095,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-01-21 01:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-01-22 01:23:56 +0000"
     },
     "done": true
   },
@@ -2071,6 +2155,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-21 01:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-01-22 01:23:56 +0000"
     },
     "done": true
   },
@@ -2209,6 +2299,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv3": {
     "criteria": {
       "has_iron": "2025-01-21 01:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-22 01:26:28 +0000"
     },
     "done": true
   },
