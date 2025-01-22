@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_oak_button": {
+    "criteria": {
+      "has_block": "2025-01-22 02:07:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-01-21 22:44:46 +0000"
@@ -1148,6 +1154,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-22 02:06:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-01-21 01:28:47 +0000"
@@ -1274,6 +1286,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-01-21 01:25:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-22 02:06:24 +0000"
     },
     "done": true
   },
@@ -1574,6 +1592,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-22 01:53:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_oak_stairs": {
+    "criteria": {
+      "has_block": "2025-01-22 02:07:38 +0000"
     },
     "done": true
   },
@@ -2573,6 +2597,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_oak_slab": {
+    "criteria": {
+      "has_block": "2025-01-22 02:07:38 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/quartz": {
     "criteria": {
       "has_quartz": "2025-01-22 01:27:47 +0000"
@@ -2912,6 +2942,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-22 01:04:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_oak_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-01-22 02:07:38 +0000"
     },
     "done": true
   },
