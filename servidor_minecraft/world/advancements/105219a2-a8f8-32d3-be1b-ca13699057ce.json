@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/casing_heavy": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-23 18:47:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-23 00:43:03 +0000"
@@ -128,6 +134,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-01-23 00:34:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/pig": {
+    "criteria": {
+      "has_porkchop": "2025-01-23 18:48:23 +0000"
     },
     "done": true
   },
@@ -257,6 +269,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/specialised_grip": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-23 18:47:23 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-01-23 00:09:14 +0000"
@@ -272,6 +290,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-23 00:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-23 18:52:09 +0000"
     },
     "done": true
   },
@@ -415,6 +439,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/holo_scope": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-23 18:47:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-01-23 01:14:27 +0000"
@@ -529,6 +559,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/light_stock": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-23 18:47:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-23 01:14:27 +0000"
@@ -547,6 +583,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/grenade": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-23 18:47:23 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/bullet_medium": {
     "criteria": {
       "has_gold_nugget": "2025-01-23 00:17:49 +0000"
@@ -556,6 +598,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-01-23 00:34:37 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/medium_scope": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-23 18:47:23 +0000"
     },
     "done": true
   },
@@ -625,6 +673,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/long_scope": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-23 18:47:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-01-23 00:10:33 +0000"
@@ -634,6 +688,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 00:17:43 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/kobra": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-23 18:47:23 +0000"
     },
     "done": true
   },
@@ -652,6 +712,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-01-23 00:07:56 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/silencer": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-23 18:47:23 +0000"
     },
     "done": true
   },
@@ -718,6 +784,12 @@
   "additionalguns:recipes/additionalguns/m1911": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 00:17:43 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/zerkalo_scope": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-23 18:47:23 +0000"
     },
     "done": true
   },
@@ -823,9 +895,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-01-23 18:52:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_boots": "2025-01-23 00:17:39 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/tactical_stock": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-23 18:47:23 +0000"
     },
     "done": true
   },
@@ -844,6 +928,12 @@
   "additionalguns:recipes/additionalguns/angled_grip": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 00:17:43 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/stun_grenade": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-23 18:47:23 +0000"
     },
     "done": true
   },
@@ -907,6 +997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-23 18:48:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-01-23 00:14:15 +0000"
@@ -931,9 +1027,33 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/casing_small": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-23 18:47:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-01-23 00:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-23 18:51:04 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/casing_short": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-23 18:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-23 18:48:23 +0000"
     },
     "done": true
   },
@@ -1069,9 +1189,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-23 18:52:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-01-23 00:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-01-23 18:47:24 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/basic_stock": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-23 18:47:23 +0000"
     },
     "done": true
   },
@@ -1108,6 +1246,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-23 01:14:27 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/sniper_muzzle_brake": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-23 18:47:23 +0000"
     },
     "done": true
   },
@@ -1192,6 +1336,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-01-23 00:34:37 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/casing_long": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-23 18:47:23 +0000"
     },
     "done": true
   },
@@ -1327,6 +1477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-23 18:48:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-23 00:14:15 +0000"
@@ -1417,9 +1573,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-23 18:58:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-01-23 00:17:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-01-23 18:33:45 +0000"
     },
     "done": true
   },
@@ -1441,6 +1609,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/weighted_stock": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-23 18:47:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-01-23 00:46:09 +0000"
@@ -1453,11 +1627,18 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/missile": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-23 18:47:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-01-23 00:50:06 +0000",
       "minecraft:beach": "2025-01-23 00:10:37 +0000",
       "minecraft:river": "2025-01-23 00:07:56 +0000",
+      "minecraft:cold_ocean": "2025-01-23 18:33:08 +0000",
       "minecraft:forest": "2025-01-22 01:23:37 +0000",
       "minecraft:plains": "2025-01-22 01:24:05 +0000"
     },
@@ -1472,6 +1653,12 @@
   "securitycraft:recipes/securitycraft/whitelist_module": {
     "criteria": {
       "has_iron": "2025-01-23 00:17:43 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/casing_special": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-23 18:47:23 +0000"
     },
     "done": true
   },
@@ -1517,6 +1704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-23 18:47:23 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/easy_opening": {
     "criteria": {
       "coded_trigger": "2025-01-23 00:28:36 +0000"
@@ -1544,6 +1737,12 @@
   "additionalguns:recipes/additionalguns/usas12": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 00:17:43 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/light_grip": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-23 18:47:23 +0000"
     },
     "done": true
   },
@@ -1589,6 +1788,12 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/casing_medium": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-23 18:47:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 00:17:43 +0000"
@@ -1601,6 +1806,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-01-23 18:59:30 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/mat_49": {
     "criteria": {
       "has_oak_planks": "2025-01-23 00:14:15 +0000"
@@ -1610,6 +1821,12 @@
   "cgm:recipes/cgm/heavy_rifle": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 00:17:43 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/short_scope": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-23 18:47:23 +0000"
     },
     "done": true
   },
@@ -1691,6 +1908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-01-23 18:47:24 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/bullet_special": {
     "criteria": {
       "has_gold_nugget": "2025-01-23 00:17:49 +0000"
@@ -1700,6 +1923,12 @@
   "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-01-23 00:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-23 18:52:09 +0000"
     },
     "done": true
   },

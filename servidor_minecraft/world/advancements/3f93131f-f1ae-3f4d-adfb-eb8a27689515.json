@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-23 18:55:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-22 00:08:45 +0000"
@@ -737,6 +743,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-23 18:54:00 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/silencer": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 22:35:15 +0000"
@@ -954,6 +966,12 @@
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-22 00:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-01-23 19:04:39 +0000"
     },
     "done": true
   },
@@ -1251,9 +1269,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-23 18:54:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_black_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-22 00:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-23 19:04:28 +0000"
     },
     "done": true
   },
@@ -1272,6 +1302,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-01-21 01:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-23 19:04:32 +0000"
     },
     "done": true
   },
@@ -1311,6 +1347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-23 18:55:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-01-21 01:24:25 +0000"
@@ -1320,6 +1362,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-22 00:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-23 18:54:00 +0000"
     },
     "done": true
   },
@@ -1392,6 +1440,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-01-21 01:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-23 18:55:34 +0000"
     },
     "done": true
   },
@@ -1765,6 +1819,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-01-21 01:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-23 18:54:00 +0000"
     },
     "done": true
   },
@@ -2872,6 +2932,12 @@
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-01-21 23:59:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-01-23 18:55:34 +0000"
     },
     "done": true
   },
