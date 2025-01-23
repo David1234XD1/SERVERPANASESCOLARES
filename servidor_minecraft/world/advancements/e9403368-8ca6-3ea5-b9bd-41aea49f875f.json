@@ -701,6 +701,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-01-23 02:31:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-21 01:42:12 +0000"
@@ -886,6 +892,12 @@
   "securitycraft:recipes/securitycraft/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-01-22 01:07:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-23 02:31:24 +0000"
     },
     "done": true
   },
@@ -1546,6 +1558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-23 02:31:27 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/casing_medium": {
     "criteria": {
       "has_iron_nugget": "2025-01-22 01:04:03 +0000"
@@ -1600,6 +1618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-23 02:31:24 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/blank_upgrade": {
     "criteria": {
       "has_chest": "2025-01-21 02:40:50 +0000"
@@ -1639,6 +1663,12 @@
   "additionalguns:recipes/additionalguns/bullet_special": {
     "criteria": {
       "has_gold_nugget": "2025-01-22 01:55:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/ocelot": {
+    "criteria": {
+      "has_cod": "2025-01-23 02:31:24 +0000"
     },
     "done": true
   },
@@ -2071,6 +2101,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-01-23 00:08:14 +0000",
+      "cooked_cod": "2025-01-23 18:06:48 +0000",
       "bread": "2025-01-21 01:38:38 +0000",
       "rotten_flesh": "2025-01-22 02:18:20 +0000",
       "cooked_chicken": "2025-01-23 01:14:59 +0000"
@@ -2098,6 +2129,12 @@
   "travelersbackpack:recipes/travelersbackpack/iron_tier_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 01:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-23 02:31:24 +0000"
     },
     "done": true
   },
