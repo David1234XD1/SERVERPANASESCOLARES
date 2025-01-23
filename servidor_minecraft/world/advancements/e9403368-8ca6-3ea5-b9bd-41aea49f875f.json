@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-23 20:18:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-22 01:10:43 +0000"
@@ -1656,6 +1662,12 @@
   "additionalguns:recipes/additionalguns/tactical_muzzle_brake": {
     "criteria": {
       "has_iron_nugget": "2025-01-22 01:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-01-23 20:15:27 +0000"
     },
     "done": true
   },
