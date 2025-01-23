@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_lever": {
+    "criteria": {
+      "has_cobble": "2025-01-23 00:30:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-01-21 01:25:33 +0000"
@@ -1237,6 +1243,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone": {
+    "criteria": {
+      "has_item": "2025-01-23 00:30:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-01-21 01:25:57 +0000"
@@ -1630,6 +1642,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_slab_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-01-23 00:30:56 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/ak104": {
     "criteria": {
       "has_iron_ingot": "2025-01-22 01:15:05 +0000"
@@ -1840,6 +1858,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_stairs": {
+    "criteria": {
+      "has_block": "2025-01-23 00:30:56 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/m16a2": {
     "criteria": {
       "has_iron_ingot": "2025-01-22 01:15:05 +0000"
@@ -1927,6 +1951,12 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-01-22 01:23:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-01-23 00:30:56 +0000"
     },
     "done": true
   },
@@ -2412,9 +2442,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_wall": {
+    "criteria": {
+      "has_block": "2025-01-23 00:30:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-21 01:42:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_stairs_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-01-23 00:30:56 +0000"
     },
     "done": true
   },
@@ -2727,6 +2769,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-01-22 02:50:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_slab": {
+    "criteria": {
+      "has_block": "2025-01-23 00:30:56 +0000"
     },
     "done": true
   },

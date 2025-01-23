@@ -1,51 +1,171 @@
-[23Jan2025 00:01:05.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[23Jan2025 00:01:16.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[23Jan2025 00:01:26.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[23Jan2025 00:01:36.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[23Jan2025 00:01:41.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Tmarsi219]
-[23Jan2025 00:02:14.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[23Jan2025 00:02:17.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to MRempanadass]
-[23Jan2025 00:02:54.931] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4a33564e
-[23Jan2025 00:02:54.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elmegabyt12[/127.187.147.254:36373] logged in with entity id 28184 at (-463.69999998807907, 66.0, -502.28568665949746)
-[23Jan2025 00:02:54.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 joined the game
-[23Jan2025 00:02:54.997] [Server thread/INFO] [Jade/]: Syncing config to Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f)
-[23Jan2025 00:02:55.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved too quickly! -7.280167971289757,-4.875000193444762,-5.822975980099272
-[23Jan2025 00:03:04.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to MRempanadass]
-[23Jan2025 00:03:07.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[23Jan2025 00:04:43.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[23Jan2025 00:05:56.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Cobweb Entanglement]
-[23Jan2025 00:06:39.537] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1d74bfdd
-[23Jan2025 00:06:39.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rexsi_111[/127.130.164.43:36161] logged in with entity id 33519 at (-460.0571611470265, 68.0, -511.1257525470137)
-[23Jan2025 00:06:39.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rexsi_111 joined the game
-[23Jan2025 00:06:39.615] [Server thread/INFO] [Jade/]: Syncing config to Rexsi_111 (105219a2-a8f8-32d3-be1b-ca13699057ce)
-[23Jan2025 00:06:50.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Elmegabyt12]
-[23Jan2025 00:06:58.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[23Jan2025 00:07:04.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to MRempanadass]
-[23Jan2025 00:07:16.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[23Jan2025 00:07:34.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[23Jan2025 00:07:37.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Tie me to the Mast]
-[23Jan2025 00:07:45.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[23Jan2025 00:07:58.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[23Jan2025 00:08:44.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was eliminated by MRempanadass
-[23Jan2025 00:08:44.102] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
-[23Jan2025 00:08:46.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rexsi_111 was slain by Bison
-[23Jan2025 00:08:46.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rexsi_111 has made the advancement [Your First Grave]
-[23Jan2025 00:08:46.879] [Server thread/INFO] [tombstone/]: The player Rexsi_111 has successfully been saved
-[23Jan2025 00:08:48.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to MRempanadass]
-[23Jan2025 00:08:54.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has reached the goal [Bone Crusher]
-[23Jan2025 00:09:04.662] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/35017, l='ServerLevel[world]', x=2743.50, y=44.00, z=2735.50]
-[23Jan2025 00:09:14.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rexsi_111 has reached the goal [Here They Come]
-[23Jan2025 00:09:22.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass was executed by Tmarsi219
-[23Jan2025 00:09:22.938] [Server thread/INFO] [tombstone/]: The player MRempanadass has successfully been saved
-[23Jan2025 00:09:29.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Tmarsi219]
-[23Jan2025 00:09:57.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Elmegabyt12]
-[23Jan2025 00:10:06.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[23Jan2025 00:10:53.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Rexsi_111 to Elmegabyt12]
-[23Jan2025 00:11:03.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[23Jan2025 00:11:23.718] [Server thread/WARN] [cgm/]: literal{Tmarsi219}(fa9e6abc-6e4a-352b-b5da-32290d78f2d4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
-[23Jan2025 00:11:56.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
-[23Jan2025 00:12:13.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[23Jan2025 00:12:21.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[23Jan2025 00:12:28.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
-[23Jan2025 00:14:47.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
-[23Jan2025 00:14:52.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[23Jan2025 00:26:49.377] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+[23Jan2025 00:26:49.382] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[23Jan2025 00:26:50.182] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVERPANASESCOLARES/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[23Jan2025 00:26:50.576] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVERPANASESCOLARES/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[23Jan2025 00:26:50.579] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVERPANASESCOLARES/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[23Jan2025 00:26:50.581] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVERPANASESCOLARES/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[23Jan2025 00:26:50.585] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVERPANASESCOLARES/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[23Jan2025 00:26:50.747] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[23Jan2025 00:26:53.568] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[23Jan2025 00:26:53.681] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[23Jan2025 00:26:53.743] [main/WARN] [mixin/]: Reference map 'ambientsounds.mixins.refmap.json' for ambientsounds.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Jan2025 00:26:54.025] [main/WARN] [mixin/]: Error loading class: atomicstryker/multimine/client/MultiMineClient (java.lang.ClassNotFoundException: atomicstryker.multimine.client.MultiMineClient)
+[23Jan2025 00:26:54.026] [main/WARN] [mixin/]: @Mixin target atomicstryker.multimine.client.MultiMineClient was not found treechop.forge.compat.mixins.json:MultiMineMixin
+[23Jan2025 00:26:54.829] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[23Jan2025 00:26:54.830] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[23Jan2025 00:27:01.981] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[23Jan2025 00:27:07.417] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[23Jan2025 00:27:07.417] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[23Jan2025 00:27:08.484] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@689efaa4 has been registered twice for the same name treechop:chop_wood.
+[23Jan2025 00:27:12.409] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Starting version check at https://raw.githubusercontent.com/MrCrayfish/ModUpdates/master/cgm/update.json
+[23Jan2025 00:27:12.805] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Found status: BETA Current: 1.3.7 Target: null
+[23Jan2025 00:27:12.806] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[23Jan2025 00:27:12.867] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:aiming for minecraft:player
+[23Jan2025 00:27:12.869] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:reloading for minecraft:player
+[23Jan2025 00:27:12.869] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:shooting for minecraft:player
+[23Jan2025 00:27:12.874] [main/INFO] [journeymap/]: Initializing Packet Registries
+[23Jan2025 00:27:12.910] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
+[23Jan2025 00:27:12.911] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[23Jan2025 00:27:12.996] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[23Jan2025 00:27:12.996] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[23Jan2025 00:27:12.997] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[23Jan2025 00:27:12.998] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[23Jan2025 00:27:13.101] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
+[23Jan2025 00:27:13.125] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[23Jan2025 00:27:13.135] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[23Jan2025 00:27:13.142] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[23Jan2025 00:27:13.145] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.ForgeJadeWaystonesPlugin
+[23Jan2025 00:27:13.145] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
+[23Jan2025 00:27:13.147] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[23Jan2025 00:27:13.147] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[23Jan2025 00:27:14.143] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.6.1 Target: null
+[23Jan2025 00:27:14.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[23Jan2025 00:27:14.263] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 8.2.41 Target: null
+[23Jan2025 00:27:14.264] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalguns] Starting version check at https://raw.githubusercontent.com/HaloOfBlocks/VersionChecker/main/additionalguns/update.json
+[23Jan2025 00:27:14.275] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalguns] Found status: BETA Current: 0.8.2 Target: 0.8.2
+[23Jan2025 00:27:14.275] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[23Jan2025 00:27:14.290] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.3.7 Target: null
+[23Jan2025 00:27:14.290] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[23Jan2025 00:27:14.481] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.19.2-43.4.2.jar%23156!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.19.2-43.4.2.jar%23156!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	... 6 more
+[23Jan2025 00:27:14.482] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[23Jan2025 00:27:14.677] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.13
+[23Jan2025 00:27:14.679] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[23Jan2025 00:27:14.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: BETA Current: 4.2.1518 Target: null
+[23Jan2025 00:27:17.027] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23Jan2025 00:27:19.984] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/SERVERPANASESCOLARES/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23155!/assets/.mcassetsroot' uses unexpected schema
+[23Jan2025 00:27:19.984] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/SERVERPANASESCOLARES/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23155!/data/.mcassetsroot' uses unexpected schema
+[23Jan2025 00:27:22.114] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[23Jan2025 00:27:22.976] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[23Jan2025 00:27:23.023] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[23Jan2025 00:27:23.030] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[23Jan2025 00:27:23.041] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[23Jan2025 00:27:23.088] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[23Jan2025 00:27:23.090] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[23Jan2025 00:27:23.091] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[23Jan2025 00:27:23.095] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[23Jan2025 00:27:23.100] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[23Jan2025 00:27:23.911] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2921 advancements
+[23Jan2025 00:27:23.924] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[23Jan2025 00:27:26.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[23Jan2025 00:27:26.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[23Jan2025 00:27:26.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[23Jan2025 00:27:26.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[23Jan2025 00:27:26.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[23Jan2025 00:27:26.360] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[23Jan2025 00:27:26.457] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23Jan2025 00:27:26.457] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[23Jan2025 00:27:26.458] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23Jan2025 00:27:26.458] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[23Jan2025 00:27:26.481] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[23Jan2025 00:27:26.483] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[23Jan2025 00:27:26.484] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[23Jan2025 00:27:26.646] [Server thread/INFO] [Framework/]: Loading server configs...
+[23Jan2025 00:27:26.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[23Jan2025 00:27:27.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[23Jan2025 00:27:27.767] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[23Jan2025 00:27:27.825] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[23Jan2025 00:27:33.908] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[23Jan2025 00:27:34.626] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[23Jan2025 00:27:36.714] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:27:36.776] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:27:36.781] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:27:36.823] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:27:36.862] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:27:36.863] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:27:36.864] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:27:36.866] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:27:36.867] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:27:36.872] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:27:36.873] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:27:36.875] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:27:36.876] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:27:36.878] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:27:36.883] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:27:36.885] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:27:36.887] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:27:36.888] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:27:36.890] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:27:37.212] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:27:37.644] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[23Jan2025 00:27:37.713] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[23Jan2025 00:27:38.213] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 63%
+[23Jan2025 00:27:38.493] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10781 ms
+[23Jan2025 00:27:38.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.023s)! For help, type "help"
+[23Jan2025 00:27:38.607] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[23Jan2025 00:27:38.680] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[23Jan2025 00:27:38.680] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[23Jan2025 00:27:44.813] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[23Jan2025 00:27:45.156] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6c625e58
+[23Jan2025 00:27:45.207] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rexsi_111[/127.130.164.43:41191] logged in with entity id 710 at (-449.051064193685, 69.0, -509.6994152219)
+[23Jan2025 00:27:45.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rexsi_111 joined the game
+[23Jan2025 00:27:45.387] [Server thread/INFO] [Jade/]: Syncing config to Rexsi_111 (105219a2-a8f8-32d3-be1b-ca13699057ce)
+[23Jan2025 00:27:50.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5992ms or 119 ticks behind
+[23Jan2025 00:27:59.226] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@19bbdfc2
+[23Jan2025 00:27:59.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/127.26.246.178:33779] logged in with entity id 968 at (1984.5335345592762, 22.0, 2207.0546425038356)
+[23Jan2025 00:27:59.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
+[23Jan2025 00:27:59.402] [Server thread/INFO] [Jade/]: Syncing config to Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4)
+[23Jan2025 00:28:01.071] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@52d98028
+[23Jan2025 00:28:01.088] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MRempanadass[/127.225.88.44:54309] logged in with entity id 981 at (1977.2957487930266, 18.0, 2211.300000011921)
+[23Jan2025 00:28:01.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass joined the game
+[23Jan2025 00:28:01.142] [Server thread/INFO] [Jade/]: Syncing config to MRempanadass (3f93131f-f1ae-3f4d-adfb-eb8a27689515)
+[23Jan2025 00:28:20.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[23Jan2025 00:28:23.003] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EnderMan['Enderman'/1362, l='ServerLevel[world]', x=-390.50, y=73.00, z=-242.99]
+[23Jan2025 00:28:27.742] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3079ca4b
+[23Jan2025 00:28:27.773] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elmegabyt12[/127.187.147.254:60279] logged in with entity id 1409 at (-446.41145616534726, 69.0, -508.30000001192093)
+[23Jan2025 00:28:27.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 joined the game
+[23Jan2025 00:28:27.867] [Server thread/INFO] [Jade/]: Syncing config to Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f)
+[23Jan2025 00:28:33.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has reached the goal [Easy Opening]
+[23Jan2025 00:28:36.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rexsi_111 has made the advancement [Knowledge of Death]
+[23Jan2025 00:28:36.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rexsi_111 has reached the goal [Easy Opening]
+[23Jan2025 00:28:40.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[23Jan2025 00:29:02.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[23Jan2025 00:29:12.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[23Jan2025 00:29:12.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass was doomed to fall
+[23Jan2025 00:29:12.331] [Server thread/INFO] [tombstone/]: The player MRempanadass has successfully been saved
+[23Jan2025 00:29:17.161] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/2047, l='ServerLevel[world]', x=-91.70, y=66.00, z=207.67]
+[23Jan2025 00:29:18.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[23Jan2025 00:29:20.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[23Jan2025 00:29:27.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Tmarsi219]
+[23Jan2025 00:29:52.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Elmegabyt12]
+[23Jan2025 00:30:18.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[23Jan2025 00:30:19.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[23Jan2025 00:31:15.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[23Jan2025 00:33:16.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[23Jan2025 00:33:34.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[23Jan2025 00:35:11.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[23Jan2025 00:35:33.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[23Jan2025 00:36:34.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rexsi_111 has made the advancement [Stone Age]
