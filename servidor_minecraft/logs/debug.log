@@ -4801,3 +4801,35 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Jan2025 02:02:48.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Jan2025 02:07:48.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Jan2025 02:07:48.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 02:12:48.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 02:12:48.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 02:16:24.703] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[23Jan2025 02:16:24.703] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Recalculate image checksum for ID=2
+[23Jan2025 02:16:24.710] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: initImage'd RGB WAS NULL
+[23Jan2025 02:16:24.716] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: width = 1218
+[23Jan2025 02:16:24.716] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: height = 697
+[23Jan2025 02:16:24.716] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: type = 5
+[23Jan2025 02:16:24.769] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 2, server=-1300301421, client=-1300301421
+[23Jan2025 02:16:30.564] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[23Jan2025 02:16:30.564] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Recalculate image checksum for ID=6
+[23Jan2025 02:16:30.571] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: initImage'd RGB WAS NULL
+[23Jan2025 02:16:30.577] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: width = 1218
+[23Jan2025 02:16:30.577] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: height = 697
+[23Jan2025 02:16:30.577] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: type = 5
+[23Jan2025 02:16:30.630] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 6, server=-995185551, client=-995185551
+[23Jan2025 02:16:30.900] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[23Jan2025 02:16:30.900] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Recalculate image checksum for ID=5
+[23Jan2025 02:16:30.907] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: initImage'd RGB WAS NULL
+[23Jan2025 02:16:30.913] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: width = 1218
+[23Jan2025 02:16:30.913] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: height = 697
+[23Jan2025 02:16:30.913] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: type = 5
+[23Jan2025 02:16:30.958] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 5, server=-987030851, client=-987030851
+[23Jan2025 02:16:35.556] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Handle ServerboundCanvasChecksumPacket
+[23Jan2025 02:16:35.557] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Recalculate image checksum for ID=3
+[23Jan2025 02:16:35.564] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: initImage'd RGB WAS NULL
+[23Jan2025 02:16:35.570] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: width = 1218
+[23Jan2025 02:16:35.570] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: height = 697
+[23Jan2025 02:16:35.570] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: type = 5
+[23Jan2025 02:16:35.630] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Checksum verification for 3, server=1678443644, client=1678443644
+[23Jan2025 02:17:48.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 02:17:48.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

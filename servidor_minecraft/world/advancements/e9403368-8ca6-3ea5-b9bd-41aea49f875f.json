@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-23 02:14:44 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/holo_scope": {
     "criteria": {
       "has_iron_nugget": "2025-01-22 01:04:03 +0000"
@@ -404,6 +410,12 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-01-23 00:02:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-23 02:14:44 +0000"
     },
     "done": true
   },
@@ -946,6 +958,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-01-21 02:44:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-23 02:14:44 +0000"
     },
     "done": true
   },
@@ -2659,6 +2677,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-23 02:14:44 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/rifle": {
     "criteria": {
       "has_iron_ingot": "2025-01-22 01:15:05 +0000"
@@ -2668,6 +2692,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-21 02:48:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-23 02:14:44 +0000"
     },
     "done": true
   },
@@ -2866,6 +2896,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-01-21 01:32:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-23 02:14:44 +0000"
     },
     "done": true
   },
@@ -3133,6 +3169,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-23 02:14:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-22 01:10:43 +0000"
@@ -3343,6 +3385,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-23 02:14:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-22 01:11:08 +0000"
@@ -3382,6 +3430,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-01-21 01:41:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-23 02:14:44 +0000"
     },
     "done": true
   },
