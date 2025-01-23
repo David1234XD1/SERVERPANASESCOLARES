@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-01-23 19:36:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 00:17:43 +0000"
@@ -263,6 +269,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/wolf": {
+    "criteria": {
+      "has_bone": "2025-01-23 19:34:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-01-23 00:10:33 +0000"
@@ -278,6 +290,12 @@
   "additionalguns:recipes/additionalguns/desert_eagle": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 00:17:43 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/advanced_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-01-23 19:38:32 +0000"
     },
     "done": true
   },
@@ -359,6 +377,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-23 19:38:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-01-23 19:38:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-01-23 00:17:43 +0000"
@@ -368,6 +398,12 @@
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2025-01-23 00:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-23 19:37:33 +0000"
     },
     "done": true
   },
@@ -392,6 +428,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 00:17:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/emerald": {
+    "criteria": {
+      "has_emerald": "2025-01-23 19:37:33 +0000"
     },
     "done": true
   },
@@ -592,6 +634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-23 19:38:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-01-23 00:17:41 +0000"
@@ -721,6 +769,12 @@
   "additionalguns:recipes/additionalguns/awm": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 00:17:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-23 19:37:30 +0000"
     },
     "done": true
   },
@@ -916,6 +970,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-23 19:38:34 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/mac10": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 00:17:43 +0000"
@@ -930,6 +990,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-23 19:34:11 +0000",
       "minecraft:zombie": "2025-01-23 00:52:25 +0000"
     },
     "done": false
@@ -949,6 +1010,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-01-23 00:09:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-23 19:38:34 +0000"
     },
     "done": true
   },
@@ -1054,6 +1121,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-23 19:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-01-23 00:14:15 +0000"
@@ -1087,6 +1160,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-01-23 18:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-23 19:38:34 +0000"
     },
     "done": true
   },
@@ -1198,6 +1277,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-23 19:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-01-23 00:34:37 +0000"
@@ -1297,6 +1382,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-01-23 01:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-01-23 19:38:30 +0000"
     },
     "done": true
   },
@@ -1462,6 +1553,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/basic_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-01-23 19:38:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-01-23 00:34:37 +0000"
@@ -1489,6 +1586,12 @@
   "cgm:recipes/cgm/bazooka": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 00:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-23 19:34:11 +0000"
     },
     "done": true
   },
@@ -1546,6 +1649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-23 19:38:36 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/m4a4": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 00:17:43 +0000"
@@ -1555,6 +1664,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-01-23 00:08:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/coal": {
+    "criteria": {
+      "has_coal": "2025-01-23 19:38:30 +0000"
     },
     "done": true
   },
@@ -1797,6 +1912,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-23 19:38:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/whitelist_module": {
     "criteria": {
       "has_iron": "2025-01-23 00:17:43 +0000"
@@ -1986,6 +2107,12 @@
   "additionalguns:recipes/additionalguns/tactical_muzzle_brake": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 00:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-23 19:37:36 +0000"
     },
     "done": true
   },
