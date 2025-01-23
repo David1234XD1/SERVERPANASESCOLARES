@@ -251,3 +251,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Jan2025 01:27:33.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 was kicked for floating a vehicle too long!
 [23Jan2025 01:27:33.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Flying is not enabled on this server
 [23Jan2025 01:27:33.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
+[23Jan2025 01:28:01.652] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4c5de64f
+[23Jan2025 01:28:01.659] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/127.26.246.178:49033] logged in with entity id 37363 at (-383.0680528139419, 84.28044581413269, -737.8603616158547)
+[23Jan2025 01:28:01.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
+[23Jan2025 01:28:01.689] [Server thread/INFO] [Jade/]: Syncing config to Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4)
+[23Jan2025 01:28:31.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Timed out
+[23Jan2025 01:28:31.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
+[23Jan2025 01:28:56.052] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6af06094
+[23Jan2025 01:28:56.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/127.26.246.178:47145] logged in with entity id 37884 at (-408.6923828125, 80.82181239128113, -625.4309692382812)
+[23Jan2025 01:28:56.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
+[23Jan2025 01:28:56.098] [Server thread/INFO] [Jade/]: Syncing config to Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4)
+[23Jan2025 01:29:07.957] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRempanadass lost connection: Timed out
+[23Jan2025 01:29:07.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass left the game
+[23Jan2025 01:29:48.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[23Jan2025 01:30:02.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Dragon Growth Hormone]
+[23Jan2025 01:30:03.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[23Jan2025 01:30:04.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[23Jan2025 01:30:11.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[23Jan2025 01:30:14.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [An Ear-Shattering Roar]
+[23Jan2025 01:36:18.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rexsi_111 lost connection: Disconnected
+[23Jan2025 01:36:18.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rexsi_111 left the game

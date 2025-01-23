@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-23 01:28:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-01-23 00:10:33 +0000"
@@ -402,6 +408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-01-23 01:28:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-01-23 01:14:27 +0000"
@@ -690,6 +702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-01-23 01:28:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-01-23 00:08:46 +0000"
@@ -774,6 +792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-23 01:28:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-01-23 00:09:28 +0000"
@@ -807,6 +831,12 @@
   "additionalguns:recipes/additionalguns/over_under": {
     "criteria": {
       "has_planks": "2025-01-23 00:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-01-23 01:28:53 +0000"
     },
     "done": true
   },
@@ -855,6 +885,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-01-23 00:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-01-23 01:28:53 +0000"
     },
     "done": true
   },
@@ -963,6 +999,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 00:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-01-23 01:28:53 +0000"
     },
     "done": true
   },
@@ -1170,6 +1212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-23 01:28:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-23 01:14:27 +0000"
@@ -1221,6 +1269,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-01-23 00:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-23 01:28:53 +0000"
     },
     "done": true
   },
@@ -1516,6 +1570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-23 01:28:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-23 00:46:09 +0000"
@@ -1567,6 +1627,12 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-01-23 01:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-23 01:28:53 +0000"
     },
     "done": true
   },

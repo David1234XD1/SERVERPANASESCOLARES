@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_glass": {
+    "criteria": {
+      "has_item": "2025-01-23 01:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-01-21 02:08:34 +0000"
@@ -1756,6 +1762,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_sandstone": {
+    "criteria": {
+      "has_block": "2025-01-23 01:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-22 01:10:09 +0000"
@@ -1891,6 +1903,12 @@
   "additionalguns:recipes/additionalguns/desert_eagle": {
     "criteria": {
       "has_iron_ingot": "2025-01-22 01:15:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-01-23 01:30:02 +0000"
     },
     "done": true
   },
@@ -3346,6 +3364,12 @@
   "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-01-21 01:41:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-01-23 01:30:14 +0000"
     },
     "done": true
   },

@@ -3757,6 +3757,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-01-23 01:24:22 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/shell": {
     "criteria": {
       "has_gold_nugget": "2025-01-22 01:56:46 +0000"
