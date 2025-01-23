@@ -2804,6 +2804,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-01-23 18:28:12 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/hay": {
     "criteria": {
       "has_wheat": "2025-01-21 01:38:49 +0000"
@@ -3149,6 +3155,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-01-22 01:07:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-01-23 18:16:08 +0000"
     },
     "done": true
   },
