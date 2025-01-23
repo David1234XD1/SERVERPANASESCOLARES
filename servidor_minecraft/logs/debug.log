@@ -3397,3 +3397,27 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Jan2025 00:47:04.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass was turned to ice by Ice Dragon
 [23Jan2025 00:47:04.307] [Server thread/DEBUG] [tombstone/]: A new grave of the player MRempanadass was created at position [x:2029, y:-5, z:2692, dim:minecraft:overworld]
 [23Jan2025 00:47:04.322] [Server thread/INFO] [tombstone/]: The player MRempanadass has successfully been saved
+[23Jan2025 00:47:05.528] [Server thread/DEBUG] [twilightforest/]: Player MRempanadass (3f93131f-f1ae-3f4d-adfb-eb8a27689515) respawned and received items held in storage
+[23Jan2025 00:47:20.527] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/11646, l='ServerLevel[world]', x=-71.53, y=63.00, z=247.47]
+[23Jan2025 00:47:22.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Tmarsi219]
+[23Jan2025 00:47:25.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[23Jan2025 00:47:44.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 00:47:44.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 00:48:29.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[23Jan2025 00:48:33.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Elmegabyt12]
+[23Jan2025 00:48:45.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[23Jan2025 00:48:49.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Tmarsi219]
+[23Jan2025 00:48:53.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Elmegabyt12 to Tmarsi219]
+[23Jan2025 00:49:40.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Mother of Dragons]
+[23Jan2025 00:52:06.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set the time to 1000]
+[23Jan2025 00:52:25.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rexsi_111 has made the advancement [Monster Hunter]
+[23Jan2025 00:52:44.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 00:52:44.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 00:53:15.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved wrongly!
+[23Jan2025 00:54:58.465] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[23Jan2025 00:55:02.372] [Server thread/DEBUG] [twilightforest/]: Found ideal portal spot for Terrapin at BlockPos{x=-476, y=4, z=-516}
+[23Jan2025 00:55:02.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rexsi_111 moved too quickly! -5.169739828099125,0.0,8.692305412642611
+[23Jan2025 00:55:02.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4000ms or 80 ticks behind
+[23Jan2025 00:55:02.462] [Server thread/DEBUG] [twilightforest/]: Portal destination looks unsafe, rerouting!
+[23Jan2025 00:55:02.463] [Server thread/DEBUG] [twilightforest/]: Safely rerouted!
+[23Jan2025 00:55:04.821] [Server thread/DEBUG] [twilightforest/]: Found ideal portal spot for Terrapin at BlockPos{x=-579, y=2, z=-607}
