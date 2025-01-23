@@ -271,3 +271,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Jan2025 01:30:14.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [An Ear-Shattering Roar]
 [23Jan2025 01:36:18.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rexsi_111 lost connection: Disconnected
 [23Jan2025 01:36:18.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rexsi_111 left the game
+[23Jan2025 01:40:48.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[23Jan2025 01:40:48.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[23Jan2025 01:41:02.702] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@662e02dd
+[23Jan2025 01:41:02.707] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MRempanadass[/127.225.88.44:43441] logged in with entity id 40183 at (-445.43125001192095, 69.0, -503.06877461427837)
+[23Jan2025 01:41:02.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass joined the game
+[23Jan2025 01:41:02.753] [Server thread/INFO] [Jade/]: Syncing config to MRempanadass (3f93131f-f1ae-3f4d-adfb-eb8a27689515)
+[23Jan2025 01:44:27.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Made MRempanadass a server operator]
+[23Jan2025 01:44:38.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Disconnected
+[23Jan2025 01:44:38.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
