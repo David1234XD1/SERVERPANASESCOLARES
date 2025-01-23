@@ -280,3 +280,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Jan2025 01:44:27.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Made MRempanadass a server operator]
 [23Jan2025 01:44:38.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Disconnected
 [23Jan2025 01:44:38.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
+[23Jan2025 02:00:54.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elmegabyt12> coronel tiene 8 de hierro que se regale
