@@ -220,3 +220,34 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [23Jan2025 01:04:40.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Dragon Growth Hormone]
 [23Jan2025 01:05:10.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rexsi_111 was slain by Zombie
 [23Jan2025 01:05:10.218] [Server thread/INFO] [tombstone/]: The player Rexsi_111 has successfully been saved
+[23Jan2025 01:12:17.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[23Jan2025 01:12:32.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[23Jan2025 01:14:04.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Disconnected
+[23Jan2025 01:14:04.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
+[23Jan2025 01:14:33.664] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@42295a00
+[23Jan2025 01:14:33.674] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/127.26.246.178:58673] logged in with entity id 33165 at (-446.17546996586105, 69.35612940788269, -478.2077756968262)
+[23Jan2025 01:14:33.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
+[23Jan2025 01:14:33.735] [Server thread/INFO] [Jade/]: Syncing config to Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4)
+[23Jan2025 01:15:23.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Timed out
+[23Jan2025 01:15:23.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
+[23Jan2025 01:15:57.916] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6030267
+[23Jan2025 01:15:57.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/127.26.246.178:43779] logged in with entity id 33413 at (-441.65839314831953, 69.35612940788269, -480.9939328324524)
+[23Jan2025 01:15:57.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
+[23Jan2025 01:15:57.982] [Server thread/INFO] [Jade/]: Syncing config to Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4)
+[23Jan2025 01:17:28.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Timed out
+[23Jan2025 01:17:28.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
+[23Jan2025 01:17:41.957] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7c58c024
+[23Jan2025 01:17:41.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/127.26.246.178:36709] logged in with entity id 33868 at (-456.226318359375, 68.35612940788269, -482.8138427734375)
+[23Jan2025 01:17:41.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
+[23Jan2025 01:17:42.014] [Server thread/INFO] [Jade/]: Syncing config to Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4)
+[23Jan2025 01:18:24.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[23Jan2025 01:18:29.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[23Jan2025 01:21:23.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[23Jan2025 01:21:36.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[23Jan2025 01:22:26.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Rexsi_111 to Tmarsi219]
+[23Jan2025 01:24:22.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [The Song of the Dragons]
+[23Jan2025 01:25:42.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 was taken down by Tmarsi219
+[23Jan2025 01:25:42.852] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[23Jan2025 01:27:33.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 was kicked for floating a vehicle too long!
+[23Jan2025 01:27:33.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Flying is not enabled on this server
+[23Jan2025 01:27:33.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
