@@ -127,3 +127,9 @@
 [24Jan2025 02:28:08.507] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2a73188f
 [24Jan2025 02:28:08.907] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@365c0dcb
 [24Jan2025 02:28:09.308] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7668bf06
+[24Jan2025 02:31:46.919] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7ddcb457
+[24Jan2025 02:31:46.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Goku177[/127.161.132.75:57181] logged in with entity id 5602 at (-438.5190581201061, 69.0, -512.3188536497842)
+[24Jan2025 02:31:46.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 joined the game
+[24Jan2025 02:31:46.979] [Server thread/INFO] [Jade/]: Syncing config to Goku177 (de39ec36-44f0-3f10-b028-f8687bba6755)
+[24Jan2025 02:32:34.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Goku177> coronel ya isiste lo de ciencias
+[24Jan2025 02:38:51.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Neighborhood Brawl]
