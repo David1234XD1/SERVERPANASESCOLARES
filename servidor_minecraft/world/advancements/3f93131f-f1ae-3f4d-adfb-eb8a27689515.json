@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:38:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-01-21 01:30:10 +0000"
@@ -296,6 +302,12 @@
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-22 00:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:38:18 +0000"
     },
     "done": true
   },
@@ -383,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-24 19:33:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 01:29:19 +0000"
@@ -398,6 +416,12 @@
   "securitycraft:recipes/securitycraft/display_case": {
     "criteria": {
       "has_item_frame": "2025-01-23 02:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:38:18 +0000"
     },
     "done": true
   },
@@ -1009,6 +1033,12 @@
   "securitycraft:recipes/securitycraft/retinal_scanner": {
     "criteria": {
       "has_stone": "2025-01-22 02:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:38:18 +0000"
     },
     "done": true
   },
@@ -1642,6 +1672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:38:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-01-21 01:25:21 +0000"
@@ -1853,6 +1889,7 @@
       "minecraft:sunflower_plains": "2025-01-23 19:50:52 +0000",
       "minecraft:birch_forest": "2025-01-22 19:50:21 +0000",
       "minecraft:beach": "2025-01-21 01:32:37 +0000",
+      "minecraft:dark_forest": "2025-01-24 19:32:35 +0000",
       "minecraft:mangrove_swamp": "2025-01-23 20:21:52 +0000",
       "minecraft:sparse_jungle": "2025-01-23 20:22:27 +0000",
       "minecraft:river": "2025-01-21 01:55:37 +0000",
@@ -1867,6 +1904,7 @@
       "minecraft:lush_caves": "2025-01-22 23:53:31 +0000",
       "minecraft:frozen_ocean": "2025-01-22 23:44:01 +0000",
       "minecraft:jungle": "2025-01-23 20:10:42 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-01-24 19:36:49 +0000",
       "minecraft:snowy_beach": "2025-01-22 23:42:35 +0000",
       "minecraft:frozen_peaks": "2025-01-22 01:46:52 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-23 20:23:06 +0000",
@@ -2707,6 +2745,7 @@
       "apple": "2025-01-22 01:37:01 +0000",
       "mutton": "2025-01-23 22:41:09 +0000",
       "bread": "2025-01-21 01:49:08 +0000",
+      "golden_apple": "2025-01-24 19:59:11 +0000",
       "glow_berries": "2025-01-23 20:38:52 +0000"
     },
     "done": false
@@ -3210,6 +3249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-24 19:33:22 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/val": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 22:38:23 +0000"
@@ -3342,6 +3387,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:38:18 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/cake": {
     "criteria": {
       "has_egg": "2025-01-21 02:38:56 +0000"
@@ -3393,6 +3444,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-01-21 23:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:38:18 +0000"
     },
     "done": true
   },
@@ -4140,6 +4197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:38:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-22 00:08:45 +0000"
@@ -4407,6 +4470,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-01-22 23:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:38:18 +0000"
     },
     "done": true
   },

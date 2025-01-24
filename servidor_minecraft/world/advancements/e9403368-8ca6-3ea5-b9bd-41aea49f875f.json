@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:50:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-21 02:44:08 +0000"
@@ -122,6 +128,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-21 02:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:50:38 +0000"
     },
     "done": true
   },
@@ -230,6 +242,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-01-21 01:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:50:38 +0000"
     },
     "done": true
   },
@@ -344,6 +362,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-01-21 01:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-24 19:33:43 +0000"
     },
     "done": true
   },
@@ -632,6 +656,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-22 01:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-24 19:49:12 +0000"
     },
     "done": true
   },
@@ -1119,6 +1149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-24 19:49:12 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-01-21 01:24:25 +0000"
@@ -1317,6 +1353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:50:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-01-21 01:25:33 +0000"
@@ -1506,6 +1548,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-24 19:04:31 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-01-24 19:58:01 +0000",
       "minecraft:taiga": "2025-01-21 02:24:32 +0000",
       "minecraft:birch_forest": "2025-01-23 19:10:42 +0000",
       "minecraft:beach": "2025-01-21 02:19:36 +0000",
@@ -1517,8 +1560,11 @@
       "minecraft:cold_ocean": "2025-01-21 02:24:33 +0000",
       "minecraft:forest": "2025-01-21 01:24:26 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-23 19:09:02 +0000",
+      "minecraft:frozen_peaks": "2025-01-24 19:38:38 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-24 19:38:31 +0000",
       "minecraft:deep_dark": "2025-01-22 02:01:31 +0000",
       "minecraft:meadow": "2025-01-22 01:48:41 +0000",
+      "minecraft:savanna": "2025-01-24 19:39:09 +0000",
       "minecraft:plains": "2025-01-21 01:24:35 +0000"
     },
     "done": false
@@ -2703,6 +2749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-24 19:33:43 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/val": {
     "criteria": {
       "has_iron_ingot": "2025-01-22 01:15:05 +0000"
@@ -2766,6 +2818,12 @@
   "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-22 01:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:50:38 +0000"
     },
     "done": true
   },
@@ -2835,6 +2893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:50:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-22 01:11:08 +0000"
@@ -2898,6 +2962,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-21 02:44:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-24 19:49:10 +0000"
     },
     "done": true
   },
@@ -2976,6 +3046,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-01-23 18:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:50:38 +0000"
     },
     "done": true
   },
@@ -3249,6 +3325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:50:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-21 02:44:02 +0000"
@@ -3423,6 +3505,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-24 19:49:10 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/hose_nozzle": {
     "criteria": {
       "has_iron": "2025-01-21 01:41:04 +0000"
@@ -3534,6 +3622,12 @@
   "additionalguns:recipes/additionalguns/casing_special": {
     "criteria": {
       "has_iron_nugget": "2025-01-22 01:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-24 19:49:10 +0000"
     },
     "done": true
   },
@@ -3690,6 +3784,12 @@
   "securitycraft:recipes/securitycraft/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-01-23 02:14:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-24 19:50:38 +0000"
     },
     "done": true
   },
