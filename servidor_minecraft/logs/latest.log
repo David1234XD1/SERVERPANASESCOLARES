@@ -176,3 +176,17 @@
 [24Jan2025 03:03:59.255] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/16246, l='ServerLevel[world]', x=-635.50, y=50.00, z=-632.50]
 [24Jan2025 03:04:32.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 lost connection: Disconnected
 [24Jan2025 03:04:32.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 left the game
+[24Jan2025 03:11:49.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MRempanadass lost connection: Disconnected
+[24Jan2025 03:11:49.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass left the game
+[24Jan2025 03:12:11.574] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1d14223d
+[24Jan2025 03:12:11.581] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MRempanadass[/127.225.88.44:47795] logged in with entity id 17928 at (-446.53278269152065, 69.0, -500.2381354189846)
+[24Jan2025 03:12:11.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass joined the game
+[24Jan2025 03:12:11.622] [Server thread/INFO] [Jade/]: Syncing config to MRempanadass (3f93131f-f1ae-3f4d-adfb-eb8a27689515)
+[24Jan2025 03:16:24.870] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@389a1986
+[24Jan2025 03:18:37.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Dragon Commander]
+[24Jan2025 03:19:48.174] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2797c1a
+[24Jan2025 03:19:48.181] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/127.26.246.178:32897] logged in with entity id 19039 at (-438.9923581455585, 69.0, -495.72616938880253)
+[24Jan2025 03:19:48.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
+[24Jan2025 03:19:48.238] [Server thread/INFO] [Jade/]: Syncing config to Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4)
+[24Jan2025 03:20:11.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[24Jan2025 03:20:26.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
