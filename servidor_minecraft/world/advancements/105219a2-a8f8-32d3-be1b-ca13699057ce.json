@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-01-23 22:25:04 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/desert_eagle": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 00:17:43 +0000"
@@ -383,6 +389,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-01-23 21:04:19 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/creeper": {
     "criteria": {
       "has_gunpowder": "2025-01-23 19:38:32 +0000"
@@ -425,6 +437,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-01-23 21:08:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 00:17:43 +0000"
@@ -447,7 +465,9 @@
     "criteria": {
       "sweet_berries": "2025-01-23 19:25:20 +0000",
       "beef": "2025-01-23 00:16:05 +0000",
+      "porkchop": "2025-01-23 22:29:57 +0000",
       "apple": "2025-01-23 18:25:58 +0000",
+      "poisonous_potato": "2025-01-23 22:08:03 +0000",
       "mutton": "2025-01-23 19:14:12 +0000",
       "rotten_flesh": "2025-01-23 00:07:40 +0000",
       "salmon": "2025-01-23 19:13:20 +0000"
@@ -784,6 +804,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-23 22:14:00 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/ace_of_spades": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 00:17:43 +0000"
@@ -865,6 +891,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-23 01:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-23 22:18:30 +0000"
     },
     "done": true
   },
@@ -991,7 +1023,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-23 19:34:11 +0000",
-      "minecraft:zombie": "2025-01-23 00:52:25 +0000"
+      "minecraft:zombie": "2025-01-23 00:52:25 +0000",
+      "minecraft:drowned": "2025-01-23 21:06:30 +0000"
     },
     "done": false
   },
@@ -1085,6 +1118,12 @@
     },
     "done": true
   },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-01-23 22:12:21 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/stun_grenade": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 18:47:23 +0000"
@@ -1112,6 +1151,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-01-23 00:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-23 22:25:04 +0000"
     },
     "done": true
   },
@@ -1754,6 +1799,12 @@
   "travelersbackpack:recipes/travelersbackpack/hose_nozzle": {
     "criteria": {
       "has_iron": "2025-01-23 00:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-23 22:18:30 +0000"
     },
     "done": true
   },
