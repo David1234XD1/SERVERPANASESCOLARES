@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-24 19:22:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-01-23 00:17:43 +0000"
@@ -721,6 +727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-24 19:22:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-01-23 00:08:29 +0000"
@@ -784,6 +796,12 @@
   "cgm:recipes/cgm/basic_bullet": {
     "criteria": {
       "has_gunpowder": "2025-01-23 19:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-24 19:22:50 +0000"
     },
     "done": true
   },
@@ -1644,6 +1662,12 @@
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-01-23 19:13:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-01-24 19:22:50 +0000"
     },
     "done": true
   },

@@ -2976,6 +2976,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-01-24 19:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-01-21 01:50:22 +0000"
