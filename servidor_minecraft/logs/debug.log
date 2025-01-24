@@ -3704,3 +3704,82 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Jan2025 20:10:00.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
 [24Jan2025 20:10:48.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Jan2025 20:10:48.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 20:11:53.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 was turned to ice by Ice Dragon
+[24Jan2025 20:11:53.500] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[24Jan2025 20:11:57.428] [Server thread/DEBUG] [twilightforest/]: Player Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f) respawned and received items held in storage
+[24Jan2025 20:14:06.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[24Jan2025 20:14:16.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[24Jan2025 20:14:19.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has completed the challenge [Free Willy]
+[24Jan2025 20:14:27.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! -0.9639861816385746,0.0,-10.044126148902137
+[24Jan2025 20:14:30.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 11.864130332631817,0.0,114.39506497656714
+[24Jan2025 20:14:30.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 11.609167509724443,0.0,112.3934520079971
+[24Jan2025 20:14:30.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 11.354778066693541,0.0,110.39173460903976
+[24Jan2025 20:14:30.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 11.100894344713709,0.0,108.38992510248079
+[24Jan2025 20:14:30.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 10.847456668700886,0.0,106.38803435701709
+[24Jan2025 20:14:30.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 10.594412405231026,0.0,104.38607195883947
+[24Jan2025 20:14:30.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 10.341715131624028,0.0,102.3840463629682
+[24Jan2025 20:14:30.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 10.089618432786324,0.0,100.38192843539866
+[24Jan2025 20:14:30.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 9.838051440895129,0.0,98.37972907127119
+[24Jan2025 20:14:31.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 9.525492545748307,0.0,96.38835176418934
+[24Jan2025 20:14:31.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 9.159138791930047,0.0,94.4065195114216
+[24Jan2025 20:14:31.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 8.771097801233168,0.0,92.42438513487366
+[24Jan2025 20:14:31.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 8.3639286676094,0.0,90.44198428515153
+[24Jan2025 20:14:31.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 7.940494868277369,0.0,88.45918114457288
+[24Jan2025 20:14:31.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 7.510681336382561,0.0,86.4739812956725
+[24Jan2025 20:14:31.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 7.075240880367403,0.0,84.4866675500324
+[24Jan2025 20:14:31.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 6.636084632962024,0.0,82.4971955191346
+[24Jan2025 20:14:31.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 6.193651057550483,0.0,80.50581988063959
+[24Jan2025 20:14:31.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 5.748621883816668,0.0,78.5126967696433
+[24Jan2025 20:14:31.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 5.301303392362627,0.0,76.51803238790103
+[24Jan2025 20:14:31.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 4.851965722679324,0.0,74.52200860536072
+[24Jan2025 20:14:31.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 4.400847137797825,0.0,72.52478583131654
+[24Jan2025 20:14:31.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 3.9368321611619876,0.0,70.52941624061316
+[24Jan2025 20:14:31.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 3.4614425669987554,0.0,68.5356811576163
+[24Jan2025 20:14:31.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 2.9711484267290302,0.0,66.54482079674847
+[24Jan2025 20:14:31.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 2.467708476793348,0.0,64.55649594079853
+[24Jan2025 20:14:31.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 2.0433546768110205,0.0,62.56547744957277
+[24Jan2025 20:14:31.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 1.6887548610875456,0.0,60.57208317203367
+[24Jan2025 20:14:31.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 1.3947450621152484,0.0,58.576517926342376
+[24Jan2025 20:14:32.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 1.154175657917449,0.0,56.579037886740934
+[24Jan2025 20:14:32.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 0.9508496290370658,0.0,54.57929463705614
+[24Jan2025 20:14:32.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 0.7800528432767351,0.0,52.577543554671024
+[24Jan2025 20:14:32.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 0.637946849948321,0.0,50.57402156384421
+[24Jan2025 20:14:32.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 0.521146135544825,0.0,48.568937631771746
+[24Jan2025 20:14:32.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 0.4266646771531555,0.0,46.56247606752072
+[24Jan2025 20:14:32.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 0.35186880256384256,0.0,44.55479943168825
+[24Jan2025 20:14:32.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 0.2944356128882646,0.0,42.54605110272087
+[24Jan2025 20:14:32.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 0.2330984570710939,0.0,40.53644413611039
+[24Jan2025 20:14:32.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 0.16831800311700817,0.0,38.52607985109876
+[24Jan2025 20:14:32.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 0.10050056020611464,0.0,36.51504761125739
+[24Jan2025 20:14:32.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 0.030004493035391988,0.0,34.50342623525603
+[24Jan2025 20:14:32.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! -0.042854120732556567,0.0,32.49128524116168
+[24Jan2025 20:14:32.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! -0.11779650059924052,0.0,30.478685943909227
+[24Jan2025 20:14:32.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! -0.1945767621650134,0.0,28.46568242327146
+[24Jan2025 20:14:32.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! -0.2729780353893716,0.0,26.452322377607743
+[24Jan2025 20:15:20.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 1.3693243170972096,0.036333234856243735,9.928565455745002
+[24Jan2025 20:15:20.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 1.643944465840434,0.041241363319826974,11.918604109746411
+[24Jan2025 20:15:20.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! -2.1286032924259075,-0.021987629313557022,-15.946513390483005
+[24Jan2025 20:15:20.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! -2.1286032924259075,-0.021987629313557022,-15.946513390483005
+[24Jan2025 20:15:20.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! -1.8729346005453067,-0.021987629313557022,-13.94870834966548
+[24Jan2025 20:15:20.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! -1.6206883830059269,-0.021987629313557022,-11.950023088118655
+[24Jan2025 20:15:20.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! -1.371460787835531,-0.021987629313557022,-9.950561471888477
+[24Jan2025 20:15:28.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of MRempanadass) moved too quickly! 1.041955201499718,0.0,10.036237236578359
+[24Jan2025 20:15:48.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 20:15:48.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 20:16:03.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set the time to 1000]
+[24Jan2025 20:16:20.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[24Jan2025 20:16:30.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[24Jan2025 20:16:57.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Tmarsi219]
+[24Jan2025 20:17:07.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Elmegabyt12]
+[24Jan2025 20:20:48.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 20:20:48.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 20:22:03.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [Dragonslayer]
+[24Jan2025 20:23:05.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Tmarsi219]
+[24Jan2025 20:25:26.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[24Jan2025 20:25:48.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 20:25:48.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 20:25:49.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[24Jan2025 20:26:29.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set the time to 1000]
+[24Jan2025 20:30:48.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 20:30:48.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 20:31:11.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
