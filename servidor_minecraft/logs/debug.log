@@ -2949,3 +2949,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Jan2025 02:38:51.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Neighborhood Brawl]
 [24Jan2025 02:40:37.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Jan2025 02:40:37.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 02:45:37.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 02:45:37.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 02:50:05.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass was slain by Spider
+[24Jan2025 02:50:05.974] [Server thread/DEBUG] [tombstone/]: A new grave of the player MRempanadass was created at position [x:-403, y:65, z:-491, dim:minecraft:overworld]
+[24Jan2025 02:50:05.994] [Server thread/INFO] [tombstone/]: The player MRempanadass has successfully been saved
+[24Jan2025 02:50:07.225] [Server thread/DEBUG] [twilightforest/]: Player MRempanadass (3f93131f-f1ae-3f4d-adfb-eb8a27689515) respawned and received items held in storage
+[24Jan2025 02:50:37.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 02:50:37.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-24 02:44:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-21 01:57:30 +0000"
@@ -428,6 +434,12 @@
   "additionalguns:recipes/additionalguns/bullet_medium": {
     "criteria": {
       "has_gold_nugget": "2025-01-22 00:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-24 02:44:47 +0000"
     },
     "done": true
   },
@@ -896,6 +908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-24 02:44:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-01-22 01:00:55 +0000"
@@ -1115,6 +1133,12 @@
   "travelersbackpack:recipes/travelersbackpack/backpack_tank": {
     "criteria": {
       "has_iron": "2025-01-21 01:51:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-24 02:44:47 +0000"
     },
     "done": true
   },
@@ -3015,6 +3039,12 @@
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-01-22 02:33:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-24 02:48:06 +0000"
     },
     "done": true
   },
