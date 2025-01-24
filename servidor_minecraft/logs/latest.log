@@ -148,3 +148,21 @@
 [24Jan2025 18:59:15.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Tmarsi219) moved too quickly! -13.297795818206396,0.0,0.06377554115044859
 [24Jan2025 18:59:15.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Tmarsi219) moved too quickly! -15.496468361621652,0.0,0.31987400623484064
 [24Jan2025 18:59:49.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved too quickly! 0.0,-11.627681020464749,0.0
+[24Jan2025 19:03:10.246] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[24Jan2025 19:04:44.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Elmegabyt12) moved too quickly! -2.0136268217714246,-0.6147909465987027,9.997886508304077
+[24Jan2025 19:04:44.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Elmegabyt12) moved too quickly! 2.016157658287682,0.615563638475308,-10.010452510005848
+[24Jan2025 19:05:45.814] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@618a6dc7
+[24Jan2025 19:05:46.213] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2aeaa41b
+[24Jan2025 19:05:50.200] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@501d954e
+[24Jan2025 19:05:50.999] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4300e23d
+[24Jan2025 19:05:51.400] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@36eaf72a
+[24Jan2025 19:05:56.604] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@bb716e8
+[24Jan2025 19:08:22.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[24Jan2025 19:08:29.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[24Jan2025 19:12:12.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Tmarsi219]
+[24Jan2025 19:12:48.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported MRempanadass to Elmegabyt12]
+[24Jan2025 19:14:59.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rexsi_111 has made the advancement [The Song of the Dragons]
+[24Jan2025 19:17:32.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[24Jan2025 19:17:37.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[24Jan2025 19:19:50.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MRempanadass has made the advancement [Suit Up]
+[24Jan2025 19:20:15.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Rexsi_111 to Elmegabyt12]
