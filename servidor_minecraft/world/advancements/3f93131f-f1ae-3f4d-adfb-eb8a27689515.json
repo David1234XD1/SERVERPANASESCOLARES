@@ -437,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-01-25 00:56:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-01-21 01:26:26 +0000"
@@ -1042,6 +1048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-01-25 00:56:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-01-21 01:29:51 +0000"
@@ -1099,6 +1111,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-01-21 01:29:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/brown_sleeping_bag": {
+    "criteria": {
+      "has_brown_wool": "2025-01-25 00:56:04 +0000"
     },
     "done": true
   },
@@ -2089,6 +2107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-01-25 00:56:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-01-21 01:50:22 +0000"
@@ -2752,7 +2776,8 @@
       "mutton": "2025-01-23 22:41:09 +0000",
       "bread": "2025-01-21 01:49:08 +0000",
       "golden_apple": "2025-01-24 19:59:11 +0000",
-      "glow_berries": "2025-01-23 20:38:52 +0000"
+      "glow_berries": "2025-01-23 20:38:52 +0000",
+      "cooked_chicken": "2025-01-25 00:40:34 +0000"
     },
     "done": false
   },

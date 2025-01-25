@@ -547,6 +547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-25 00:57:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-01-23 18:52:09 +0000"
@@ -1236,6 +1242,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-25 00:57:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-01-23 18:52:09 +0000"
@@ -1653,6 +1665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-25 00:57:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-23 01:14:27 +0000"
@@ -1890,6 +1908,12 @@
   "twilightforest:root": {
     "criteria": {
       "in_tf": "2025-01-23 22:12:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/chicken": {
+    "criteria": {
+      "has_feather": "2025-01-25 00:57:29 +0000"
     },
     "done": true
   },
